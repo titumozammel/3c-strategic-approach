@@ -1,1373 +1,438 @@
-# 3C STRATEGIC APPROACH
-### A Context-Focused Approach to Organizational Attention, Insight, and Action
+# 3C Strategic Approach
+
+## Context changes the question. Look before you decide what to change.
+
+*A focused approach for deciding where organizational attention should go (Source, Dependency, or Constraint) before choosing what to change.*
 
 **Md. Mozammel Hoque**  
-*Independent Management Researcher*  
-*Originator of Human Energy Economics (HEE)*
+*Independent Management Researcher · Originator of Human Energy Economics (HEE)*
 
-**Version 1.0 — Canonical Edition**  
-**Date: 3 September 2026**
+**Version 1.0 — Revised companion framework**  
+**Revision date: 28 October 2026**  
+**Status: provisional research and practice reference**
 
----
+[HEE Core](https://github.com/titumozammel/human-energy-economics) · [Author profile](https://github.com/titumozammel) · [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) · [OSF](https://github.com/titumozammel/operational-silence-framework) · [5R Cascade](https://github.com/titumozammel/5r-cascade-framework) · [HEEn](https://github.com/titumozammel/human-energy-enablement) · [3C repository](https://github.com/titumozammel/3c-strategic-approach)
 
-# 1. THE 3C IDENTITY
+> **Precision statement.** The 3C Strategic Approach is HEE’s proposed approach for deciding where to look (at a Source, a Dependency, or a Constraint) before choosing what to change about a condition that affects application and execution. It does not establish that selecting a context improves a diagnosis or an intervention, that the three contexts are distinct, that assessors can classify them reliably, or that any condition it surfaces is a problem. Those are questions for evidence.
 
-**3C is a context-focused strategic approach that directs organizational attention toward the Source, Dependency, or Constraint most relevant to understanding and changing the conditions affecting effective application and execution.**
+> **Evidence status.** 3C is a developing conceptual framework, not a validated method. Its three contexts, question prompts, selection procedure, and descriptive progression are proposals that require testing. Established work on constraint management, causal analysis, and dependency analysis informs the framework; it does not validate 3C’s particular combination or show that 3C adds decision value beyond those methods. The author originated HEE and 3C and has a commercial interest disclosed below. The AKG cases are author-reported practice accounts and are not tests of 3C. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) governs shared terminology where the documents differ.
 
-3C is concerned primarily with **where organizational attention should be directed before deciding what should be changed**.
+**Evidence labels:** **[E]** existing research; **[A]** adaptation of existing ideas; **[P]** proposed and untested; **[H]** practice heuristic; **[Illustrative]** invented example. A label describes the status of a claim, not its certainty in every setting. **Unknown** means the available evidence does not support a defensible determination. **Not recorded** means this edition contains no record; it does not mean the event never occurred or that no record exists elsewhere.
 
-Its foundational premise is:
+**Start here:** [The Decision Point](#the-decision-point) · [Reader routes](#reader-routes) · [Owner view](#owner-view-one-page) · [Find your question](#find-your-question) · [The three contexts](#the-three-contexts) · [Definitions](#definitions-and-distinctions) · [Worked example](#one-case-from-question-to-review) · [Choosing a context](#choosing-a-context) · [Legitimate conditions](#legitimate-conditions-and-necessary-controls) · [Boundaries](#boundaries-and-architecture) · [Theory](#theory-and-contribution) · [Research](#research-agenda-and-tests) · [Go further](#go-further) · [License](#license)
 
-> **Context determines focus.**
+## The question 3C answers
 
-Its intellectual contribution is:
+Work is slow. The same error returns every month. A team waits for an approval that seems to add little. Leaders ask how to do the work faster. But the same visible problem can come from different conditions: something keeps generating it, something it depends on is unavailable, or something is restricting it. Each calls for a different question, and a better answer to the wrong question does not help.
 
-> **Context changes the question. Changed questions create or reveal better insight.**
+> **What context is creating or sustaining this condition, and what question does that context make possible?**
 
-3C therefore begins with **context**, not intervention, optimization, or solution selection.
+The question opens an inquiry. It does not assume that the condition is a defect. A source may be legitimate, a dependency may protect, and a constraint may be necessary.
 
-It asks organizations to examine the condition surrounding an observed problem before deciding how that problem should be addressed.
+3C asks where to look before deciding what to change. It does not prescribe an intervention, and it does not claim that looking first always produces a better decision; that is a proposition to test.
 
----
+**Context determines focus. Context changes the question.** These are the premise and the proposed contribution, and both are open to testing. They are not findings.
 
-# 2. 3C IN ONE SENTENCE
+## Reader routes
 
-> **3C directs organizational attention toward the Source, Dependency, or Constraint most relevant to understanding and changing the conditions affecting effective application and execution.**
+| Reader | Start with | Leave with |
+| --- | --- | --- |
+| Owner or executive | [Owner view](#owner-view-one-page), then [Legitimate conditions](#legitimate-conditions-and-necessary-controls) | A named condition, the context under examination, the evidence still missing, an accountable owner, and a review date |
+| Practitioner or manager | [Worked example](#one-case-from-question-to-review), then [Choosing a context](#choosing-a-context) | A primary context, the alternatives still open, and the cheapest evidence that would tell them apart |
+| Auditor or governance lead | [Legitimate conditions](#legitimate-conditions-and-necessary-controls) | A purpose-and-safeguards check before any control or dependency is changed |
+| Academic | [Theory and contribution](#theory-and-contribution) | A bounded contribution claim and its relationship to constraint management, causal analysis, and dependency analysis |
+| Researcher | [Research agenda and tests](#research-agenda-and-tests), then the [coding sheet](#context-coding-sheet-and-first-reliability-check) | A study question, competing explanations, measures, and narrowing or rejection criteria |
+| Learner | [The three contexts](#the-three-contexts), then the [worked example](#one-case-from-question-to-review) | The difference between a signal, a context, a diagnosis, and an intervention |
 
----
+Read in sequence only if useful. Follow the question map when you have a specific decision to make.
 
-# 3. FOUNDATIONAL DISTINCTION
+## Owner view: one page
 
-Traditional management often begins with the visible activity:
+**[H] What to do with this document in ten minutes.**
 
-> **How can we do this work better?**
+1. **Name one condition** you keep managing (a repeated correction, a waiting approval, a stalled flow) and what it costs, if recorded. If nothing is recorded, that is the first finding.
+2. **Say what you see, not why.** Write what should have happened, what happened, for whom, and over what period, without a cause.
+3. **Ask all three questions:** Why does this keep arising (Source)? Why does action depend on someone or something else (Dependency)? What is preventing effective action (Constraint)? More than one may apply: record each, with the evidence for each, rather than choosing one.
+4. **Check legitimacy before changing anything.** A source may be regulatory or customer-driven; a dependency may protect; a constraint may be necessary. Cost and frequency do not make a condition unnecessary.
+5. **Ask for the cheapest evidence that would tell the contexts apart,** with an owner and a date, before approving an intervention.
+6. **Hand off with a reason.** Name the repository that best fits the case and say why. A hand-off record holds the condition, the primary context, the evidence still missing, and the next step’s owner and date. Where the work is recurring demand, use [OSF](https://github.com/titumozammel/operational-silence-framework); to choose a disposition, [5R](https://github.com/titumozammel/5r-cascade-framework); where capability is blocked, [HEEn](https://github.com/titumozammel/human-energy-enablement).
 
-3C begins one level earlier:
+**Ask your team for:** the observation without a cause; the context chosen and the alternatives kept open; what is Unknown; what evidence would change the choice; and an inquiry record that names the decision owner, the evidence deadline, and the review date.
 
-> **What context is creating or sustaining this condition?**
+**Do not:** treat a signal as a diagnosis; remove an approval because it is slow; assume the first context that fits is the only one.
 
-The same visible problem may arise from fundamentally different conditions.
+What 3C has and has not shown is in the [evidence status](#3c-strategic-approach) and the [AKG relationship](#relationship-to-the-akg-practice-record).
 
-For example:
+## Find your question
 
-- **Rework** may require attention to its **Source**.
-- **Slow action** may require attention to a **Dependency**.
-- **A bottleneck** may require attention to a **Constraint**.
-- **Repeated workload** may require attention to the underlying **Source** generating it.
+| Question | Primary function | Asked by | Answered in | Decision it unlocks |
+| --- | --- | --- | --- | --- |
+| What exactly does 3C help me decide? | Define scope | All readers | [Precision statement](#3c-strategic-approach); [central question](#the-question-3c-answers) | Whether 3C is a suitable starting point |
+| Is this a Source, a Dependency, or a Constraint problem? | Select a context | Practitioner, manager | [Choosing a context](#choosing-a-context); [the three contexts](#the-three-contexts) | Which question to ask first and what evidence to seek |
+| Why does this keep happening? | Examine a Source | Practitioner, process owner | [Source](#source) | Whether to trace what generates the condition |
+| Why does action wait on someone or something? | Examine a Dependency | Manager, owner | [Dependency](#dependency) | Whether the dependency is necessary, protective, or restrictive |
+| What is stopping effective action? | Examine a Constraint | Owner, practitioner | [Constraint](#constraint) | Whether the limit is legitimate, avoidable, or only believed |
+| Should I change this approval, rule, or control? | Test legitimacy first | Owner, auditor | [Legitimate conditions](#legitimate-conditions-and-necessary-controls) | Whether to change, retain, or investigate |
+| How is 3C different from root cause analysis or the Theory of Constraints? | Position the proposal | Academic | [Theory](#theory-and-contribution) | Which contribution remains defensible |
+| What do I do after choosing a context? | Hand off | Practitioner | [Boundaries](#boundaries-and-architecture); [3C and 5R](#boundaries-and-architecture) | Whether the next step belongs to OSF, 5R, HEEn, or elsewhere |
+| How do four decision concepts apply to context selection? | Separate assessments | Owner, learner, auditor | [Four decision concepts](#the-decision-point) | What to improve and what evidence to review |
+| What do the AKG cases establish about 3C? | Judge practice evidence | Academic, practitioner | [AKG record](#relationship-to-the-akg-practice-record) | Whether an example informs a hypothesis or needs a new test |
+| What would support, narrow, or falsify 3C? | Design a fair test | Researcher | [Research tests](#research-agenda-and-tests) | Which study to run and what claim to revise |
+| Which HEE repository should I read next? | Route onward | All readers | [Go further](#go-further) | Where to continue without reading every repository |
 
-Therefore:
+## The three contexts
 
-> **The activity does not determine the question. The context determines the question.**
-
-This is the foundational shift of 3C.
-
----
-
-# 4. CORE PROPOSITION
-
-Organizations frequently manage visible consequences without examining the conditions that create or sustain them.
-
-This can produce:
-
-- repeated symptoms,
-- recurring demand,
-- escalation,
-- approvals,
-- coordination burden,
-- rework,
-- slow decisions,
-- unused or restricted capability,
-- operational friction,
-- capacity consumption without proportional value.
-
-3C redirects attention from the visible condition toward the context that may be generating, sustaining, depending upon, or restricting it.
-
-Its core logic is:
-
-> **CONTEXT → FOCUS → QUESTION → INSIGHT → ATTENTION → ACTION → CONDITION CHANGE → CAPACITY EFFECT → EFFECTIVE APPLICATION → EXECUTION**
-
-3C operates primarily at the **attention and inquiry stage**.
-
-It does not prescribe a universal intervention.
-
----
-
-# 5. THE THREE CONTEXTS
-
-3C identifies three primary contextual dimensions:
+3C stands for three contexts: **Source · Dependency · Constraint**. The name counts contexts; only one of the three words begins with C.
 
 > **SOURCE · DEPENDENCY · CONSTRAINT**
 
-These are not sequential steps. They are alternative or overlapping contexts through which an organizational condition may be examined.
+These are overlapping lenses, not sequential steps, and 3C is not a three-step process. A single condition may involve one context, two, or all three. A repeated approval, for example, can be a Dependency (action depends on it), a Source (it generates workload or delay), and a Constraint (it restricts timely action) at once. The purpose is to decide which context, or combination, deserves attention first, before choosing an intervention.
 
----
+| Context | Working meaning | Governing question | Typical signals (not diagnoses) | The legitimate possibility to keep open |
+| --- | --- | --- | --- | --- |
+| <a id="source"></a>**Source** | What generates or repeatedly sustains the condition | Why does this keep arising? | Recurring errors, repeated rework, recurring demand, repeated escalation or exceptions, repeated complaints | The source may be regulatory, customer-driven, structural, or strategic, and so not a defect to eliminate |
+| <a id="dependency"></a>**Dependency** | What the condition depends upon: another person, function, approval, system, resource, or condition | Why does action depend on someone or something else? | Approvals, handoffs, waiting, escalation, coordination, restricted decision authority, dependence on information or resources | The dependency may be necessary, enabling, protective, or temporary, as well as unnecessarily restrictive |
+| <a id="constraint"></a>**Constraint** | What restricts or limits movement, application, decision, flow, or execution | What is preventing effective action? | Bottlenecks, restrictive policies, unavailable resources, system limits, conflicting requirements, access or process restrictions | The constraint may be legitimate, avoidable, or only believed; find out which before acting |
 
-## 5.1 SOURCE
+**A signal is not a diagnosis.** A signal is something that calls for inquiry; the observed condition has to be placed in context before any conclusion is drawn. **Response orientations** follow only from evidence: Source inquiry may lead toward prevention or redesign, Dependency inquiry toward clearer decision rights or interfaces, Constraint inquiry toward constraint management or policy or resource changes. These are orientations, not the names of the C’s, and none is prescribed.
 
-### Definition
+## Definitions and distinctions
 
-**Source is the condition generating or repeatedly sustaining the observed outcome.**
+These definitions follow the closed HEE Core reference for this revision. Where 3C adds a term, it says so.
 
-The Source context asks:
+| Term | Working meaning | Practical distinction |
+| --- | --- | --- |
+| Context | The condition surrounding an observed problem that determines which question is worth asking first | Not a cause; a place to look |
+| Source | What generates or sustains the observed condition | Not synonymous with *root cause*; it is one of three contexts, not the exclusive lens |
+| Dependency | What the condition depends upon | A 3C context. Not the same as *Interdependence* in the prioritization heuristic |
+| Constraint | What restricts or limits action or flow | A 3C context. Not the same as the Core’s diagnostic Constraint or Artificial Constraint (see below) |
+| Signal | An observation that calls for inquiry | Signal ≠ Diagnosis |
+| Observation, interpretation, question, intervention | Four separate stages: what is seen; what context may explain it; what question the context raises; what is done | Observation ≠ Interpretation ≠ Question ≠ Intervention |
+| Primary context | The context with the strongest current evidence of generating consumption or limiting application (a judgment to record, with its evidence) | Not a finding of cause. Alternatives stay open until evidence discriminates |
+| Capability, Capacity, Application, Execution | Potential to perform; the part of capability that can be applied in a given period, given the time, attention, and energy available; putting capability to work; carrying out intended work toward a result | Capability ≠ Capacity ≠ Application ≠ Execution. Access, authority, and information belong to Enablement, not Capacity |
+| Condition change | A change to what generates, sustains, depends on, or restricts the condition | Not the same as an outcome; a changed condition may or may not change capacity |
+| Capacity effect | What a change in the condition does to usable capacity (measured, estimated, or merely expected) | The three are different; none is value |
 
-> **Why does this keep arising?**
+**A 3C Constraint is an inquiry lens, not a diagnosis.** In the Core’s provisional diagnostic vocabulary, the related conditions are the *Enablement Gap* (a blocked application of capability) and the *Artificial Constraint Condition* (a judgment about whether a restriction lacks a necessary and proportionate purpose). A 3C Constraint is not automatically either of them: the restriction may be legitimate, avoidable, or only believed, and the judgment comes from evidence, not from the lens.
 
-Typical signals include:
+Therefore: **Signal ≠ Diagnosis**, **Source ≠ Root Cause**, **Dependency ≠ Interdependence**, and **Context ≠ Cause ≠ Intervention**. These are related ideas, not interchangeable words.
 
-- recurring errors,
-- repeated rework,
-- recurring demand,
-- repeated escalation,
-- recurring exceptions,
-- repeated complaints,
-- repeated corrective activity.
+## The Decision Point
 
-The purpose is to identify what is generating or sustaining the condition.
+*Quoted from the Core README’s The Decision Point (the canonical text). If the two differ, the Core README governs.*
 
-A Source is **not automatically a defect to eliminate**.
+Within HEE, consequential decisions along the pathway from capability to sustainable results should be explicit and reviewable. Evaluate them using four distinct definitions:
 
-The source may be necessary, legitimate, structural, customer-driven, regulatory, strategic, or otherwise justified.
+1. **Decision Enablement:** whether the necessary decision rights, information, authority, and access exist.
+2. **Decision Process Quality:** how the decision was reached.
+3. **Decision Quality:** whether the choice was appropriate given what could reasonably be known.
+4. **Decision Outcome Quality:** what actually happened.
 
-### Response orientation
+**Model boundary.** Decision Process Quality remains the core model’s conversion condition. These four definitions are complementary assessment lenses, not four additional conversion conditions or compulsory sequential stages.
 
-Source-oriented inquiry may lead toward **continuous improvement**, corrective action, redesign, prevention, or other appropriate responses.
+Assess these separately. A good outcome does not prove that the process or choice was sound; a poor outcome does not automatically establish that either was unsound. Context shapes every decision: its objective, legitimate demand, available evidence, constraints, alternatives, uncertainty, timing, and consequences.
 
-Continuous Improvement is **not the name of the C**.
+**The Two Checks.** Apply the Two Checks proportionately to decisions affecting capacity:
 
----
+- **Justified?** Was the expenditure of capacity warranted?
+- **Covered?** Can credible expected usable capacity meet legitimate next-cycle demand?
 
-## 5.2 DEPENDENCY
+A justified expenditure can still leave future capacity Not covered. Where evidence is insufficient, record Unknown and specify the next evidence request or precautionary action.
 
-### Definition
+**Investigation routes.** Choose the route that fits the question:
 
-**Dependency is a condition in which action, decision, progress, or execution depends upon another person, function, approval, system, resource, or condition.**
+- **Diagnose** (the Diagnostic Approach): investigate symptoms, test possible causes, and select a useful intervention.
+- **Establish:** gather the evidence needed to make an uncertain question decidable.
+- **Verify** (the Audit Approach): compare practice with a stated standard using traceable evidence.
 
-The Dependency context asks:
+These routes can inform one another; they are not compulsory sequential stages.
 
-> **Why does action depend on someone or something else?**
+**The compressed conversion pathway and evidence boundaries.** Capability → Application → Execution → Value → Sustainable Growth. This compressed pathway does not replace the core model’s Human Energy, Connection, Decision Process Quality, Organizational Enablement, capacity, or renewal conditions. The Decision Point operates throughout this intended pathway. It makes choices and their consequences inspectable; it does not guarantee progression or sustainable results.
 
-Typical signals include:
+Customer Experience outcomes provide important evidence of customer-facing value. Sustainable Growth requires examining CX alongside employee experience, operating results, future-capacity coverage, and wider value consequences over time. Good CX alone does not establish that future delivery can be sustained.
 
-- approvals,
-- handoffs,
-- escalation dependency,
-- waiting,
-- coordination requirements,
-- intervention by another function,
-- restricted decision authority,
-- dependence on information or resources.
+**Applying the four definitions to context selection.** Choosing where to look is itself a consequential choice. *Decision Enablement:* does the person doing the inquiry have the access, information, and authority to examine each context, or does someone else own the rule or the data? *Decision Process Quality:* were all three contexts considered, with legitimacy and alternatives examined, before one was chosen? *Decision Quality:* given what could reasonably be known, was the chosen context a sound place to look first? *Decision Outcome Quality:* did the inquiry produce better evidence or a better question? A choice that led to a good result does not prove the context was well chosen, and a poor result does not prove it was not.
 
-The purpose is not to assume that dependency is bad.
+## What 3C contributes
 
-The inquiry determines whether the dependency is:
+3C proposes one specific discipline: before an organization defaults to a familiar lens (root cause, a bottleneck, a process map, automation), treat **Source, Dependency, and Constraint as parallel possibilities for attention**, record which was chosen and why, and keep the alternatives open until evidence discriminates. Its intended contribution is better question formulation and a more inspectable choice of where to look, not the discovery that sources, dependencies, or constraints matter. **3C = where to look; 5R = what to do about a recurring demand once the context is understood.** Neither requires the other.
 
-- necessary,
-- appropriate,
-- enabling,
-- protective,
-- temporary,
-- unnecessarily restrictive,
-- structurally created,
-- or otherwise affecting effective application.
+## One case from question to review
 
-### Response orientation
+**[Illustrative]** A customer-service team misses its one-day refund target. Leaders propose adding two agents. All figures here are invented.
 
-Dependency-oriented inquiry may lead toward **continuous empowerment**, redesign of decision rights, interface redesign, clarification of ownership, or other appropriate responses.
+**Observation, without a cause.** Over eight weeks the median refund takes 3.1 days against a one-day target. In a sample of 50 requests, 28% waited for a manager’s approval because the amount exceeded a 200 limit (median wait 1.9 days). An estimated 40% of the above-limit requests followed an earlier billing error.
 
-Continuous Empowerment is **not the name of the C**.
+**The three questions.**
 
----
+| Context | Question | What the evidence holds | Status |
+| --- | --- | --- | --- |
+| Source | Why do so many requests exceed the limit and keep returning? | About 40% follow an earlier error (estimated from the 50-request sample; not independently checked) | Estimated; a candidate for a Source inquiry |
+| Dependency | Why does action depend on one manager’s approval? | Approval waits lengthen when the single approver is absent (queue records, two absences) | Measured in the sample; delay is linked to one person |
+| Constraint | What does the limit prevent, and what does it protect? | Limit set years ago; reason and loss history **Not recorded** | **Unknown** |
 
-## 5.3 CONSTRAINT
+**Choice of context.** The Dependency has the strongest current evidence for the delay, so it is recorded as the primary context. The Source is kept open as a possible driver of volume, and the Constraint stays Unknown. The limit may guard against fraud, so it is **not** raised before its purpose is known.
 
-### Definition
+**Cheapest discriminating evidence (an Establish route).** Classify the cause of every above-limit request in the sample; ask the risk owner for the limit’s purpose and loss history; compare waits when the approver is present and absent. Owner and decide-by date are recorded.
 
-**Constraint is a condition restricting or limiting movement, application, decision, flow, or execution.**
+**First reversible step.** Provide named approval cover for absences, a change to the Dependency that leaves the control in place, with a stop rule written before it starts.
 
-The Constraint context asks:
+**What would change this choice.** If most above-limit requests trace to billing errors, the Source becomes primary and the recurring demand moves to [OSF](https://github.com/titumozammel/operational-silence-framework) and [5R](https://github.com/titumozammel/5r-cascade-framework). If the limit proves protective and well sized, retain it. If agents lack authority or access that sits outside the approval, route to [HEEn](https://github.com/titumozammel/human-energy-enablement).
 
-> **What is preventing effective action?**
+**What the example does not show.** It does not show that choosing the Dependency first was better than another starting point, that a 3C-guided inquiry beats a root cause analysis, or that approval cover would meet the target. Those are claims to test.
 
-Typical signals include:
+## Choosing a context
 
-- bottlenecks,
-- restrictive policies,
-- unavailable resources,
-- system limitations,
-- conflicting requirements,
-- access restrictions,
-- process restrictions,
-- organizational barriers.
+**[H] A selection procedure, not a validated one.** Use it to make the choice visible and reviewable; it is not a routing algorithm.
 
-The purpose is to identify the relevant constraint and determine what, if anything, can appropriately change.
+1. **State the observation without a cause:** what should have happened, what happened, for which unit, over what period.
+2. **Ask all three questions,** and write down what each would need as evidence. Do not drop a context because another looks obvious.
+3. **Record what evidence is held for each** (a system record, direct observation, an owner’s report, an author-reported account), and what is Unknown or Not recorded.
+4. **Name a primary context and any secondary ones,** or record *Mixed* or *Unknown*. The primary context is the one with the strongest current evidence; it is a judgment to be revised, not a cause.
+5. **Test legitimacy before changing anything:** the purpose, the safeguards, and who owns the rule (see [Legitimate conditions](#legitimate-conditions-and-necessary-controls)).
+6. **Choose the inquiry route:** *Diagnose* (why is this happening), *Establish* (what evidence would let us decide), or *Verify* (does practice meet the standard).
+7. **Hand off with a stop rule:** to a disposition ([5R](https://github.com/titumozammel/5r-cascade-framework)), recurring demand ([OSF](https://github.com/titumozammel/operational-silence-framework)), enablement ([HEEn](https://github.com/titumozammel/human-energy-enablement)), or another mechanism, with a review date.
+8. **Review:** did the question change, did the evidence change, did the primary context change? Record what was learned.
 
-### Response orientation
+| Evidence pattern | Candidate context | Useful next step |
+| --- | --- | --- |
+| The same problem returns after correction; an upstream input, rule, or system creates it | Source | Trace to what generates it; consider OSF if it is recurring demand |
+| Work waits on a named person, approval, or system; waiting varies with their availability | Dependency | Test whether the dependency is necessary; clarify decision rights or interfaces; HEEn where access is the issue |
+| People are ready but work cannot proceed because of a rule, a resource ceiling, or a limit | Constraint | Test purpose and proportionality; identify the binding limit before changing it |
+| One condition both creates volume and delays action (for example an approval) | Combined | Record each context; investigate first where evidence is cheapest or stakes are highest |
+| Evidence does not discriminate | Mixed or Unknown | Establish the next evidence before choosing |
+| The explanation lies in an external or specialist domain (market shifts, technical failure, incentives, health) | Outside 3C’s explanatory scope | Use another explanation or specialist; a lens can still describe the condition, but do not force a cause into 3C |
 
-Constraint-oriented inquiry may lead toward **continuous constraint reduction**, constraint management, resource changes, policy changes, sequencing changes, or other appropriate interventions.
+## Questions before optimization
 
-Continuous Constraint Reduction is **not the name of the C**.
-
----
-
-# 6. THE THREE CONTEXTS ARE NOT STAGES
-
-Source, Dependency, and Constraint are **contexts for attention**, not sequential stages.
-
-A single condition may involve:
-
-- one context,
-- two contexts,
-- or all three.
-
-For example, a repeated approval requirement may simultaneously be:
-
-- a **Dependency**, because action depends on approval;
-- a **Source**, if the approval requirement repeatedly generates workload or delay;
-- a **Constraint**, if the approval restricts timely action.
-
-Therefore:
-
-> **3C is not a three-step process.**
-
-It is a **context-selection and attention mechanism**.
-
-The purpose is to determine which contextual dimension—or combination of dimensions—deserves attention before an intervention is selected.
-
----
-
-# 7. CONTEXT DETERMINES QUESTION
-
-The same observed condition can produce different questions depending on the context selected.
-
-| Observed condition | Source question | Dependency question | Constraint question |
-|---|---|---|---|
-| Rework | What keeps creating rework? | Who must repeatedly resolve it? | What prevents first-time-right execution? |
-| Approval | Why is approval required? | Why does action depend on approval? | What does approval prevent? |
-| Escalation | What keeps creating escalation? | Why does the issue require escalation? | What prevents resolution at source? |
-| Coordination | Why is coordination repeatedly required? | Why does progress depend on coordination? | What prevents independent flow? |
-| Bottleneck | What keeps creating the bottleneck? | Who or what does flow depend on? | What is restricting flow? |
-| Workload | What keeps generating the workload? | What creates dependency on additional intervention? | What prevents efficient completion? |
-| Slow response | What keeps causing the delay? | What does the response depend on? | What prevents timely action? |
-
-The principle is:
-
-> **Do not begin with the activity. Begin with the context.**
-
----
-
-# 8. QUESTION TRANSFORMATIONS
-
-3C changes the question before attempting to change the condition.
+3C proposes changing the question before changing the condition. The table shows the mechanism; it is illustrative **[H]**, and every answer must be tested against evidence.
 
 | Conventional question | 3C question |
-|---|---|
-| How can we perform repeated work faster? | Why does this work keep arising? |
-| How can we reduce rework? | What keeps creating rework? |
-| How can we process approvals faster? | Why is approval required? |
-| How can we handle escalation better? | Why is escalation necessary? |
-| How can we coordinate better? | Why is coordination repeatedly required? |
-| How can we work around the bottleneck? | What is restricting flow? |
-| How can we manage workload better? | What keeps generating workload? |
-| How can we automate the activity? | Should the activity exist in its current form? |
-| How can we respond faster? | What prevents timely action? |
+| --- | --- |
+| How can we perform repeated work faster? | Why does this work keep arising? (Source) |
+| How can we reduce rework? | What keeps creating the rework? (Source) |
+| How can we process approvals faster? | Why does action depend on approval? (Dependency) |
+| How can we handle escalation better? | Why does the issue require escalation? (Dependency) |
+| How can we coordinate better? | Why is coordination repeatedly required? (Source) What prevents independent flow? (Constraint) |
+| How can we work around the bottleneck? | What is restricting flow? (Constraint) |
+| How can we automate the activity? | Should the activity exist in its current form? (all three) |
+| How can we respond faster? | What prevents timely action? (Constraint) |
 
-This produces the principle:
+The principle is **question before optimization**, a heuristic and not a law. Optimizing first can be reasonable when the stakes are low, the change is reversible, or the activity is plainly necessary. The same symptom can raise different questions under different contexts: rework asks what creates it (Source), who must repeatedly resolve it (Dependency), and what prevents first-time-right execution (Constraint). Only evidence says which question is productive.
 
-> **Question before optimization.**
+## Legitimate conditions and necessary controls
 
-Optimization should follow understanding, not replace it.
+3C treats a Source, a Dependency, or a Constraint as something to understand, not something to remove. Before any change:
 
----
+- **Test the purpose.** A recurring demand may serve a legal duty, a safety purpose, a customer need, or a protective function. A dependency may be an appropriate safeguard. A constraint may be proportionate. Cost and frequency do not make them unnecessary.
+- **Use the constraint test in HEEn** ([test the constraint before changing it](https://github.com/titumozammel/human-energy-enablement#test-the-constraint-before-changing-it)) for any rule, approval, or control.
+- **Keep safeguards unless a replacement is shown.** If a safeguard is changed, name what takes over its protective purpose.
+- **Allow Unknown.** If the purpose is not recorded, treat that as the finding and Establish it before acting.
+- **Do not assume** that all recurring work is unnecessary, all dependencies bad, all constraints removable, all approvals waste, all coordination waste, all escalation failure, all bottlenecks capacity problems, or all negative customer experience internally caused. Autonomy is not always desirable, and not every problem has a single cause.
 
-# 9. 3C DIAGNOSTIC INQUIRY
+## 3C in practice: four short cases
 
-3C separates observation, interpretation, inquiry, and intervention.
+**[Illustrative]** These are patterns, not findings.
 
-The diagnostic logic is:
+| Observation | Questions that 3C asks | Possible conditions to test (not conclusions) |
+| --- | --- | --- |
+| A routine activity repeatedly needs approval | Dependency: why does action depend on approval? | Unclear decision rights, historical control, risk assumption, missing capability, a legitimate regulatory or governance requirement |
+| Billing errors recur | Source: what keeps creating them? | Incorrect source data, unclear ownership, system configuration, incomplete information, inconsistent rules, upstream conditions |
+| Work accumulates at one point | Constraint: what is restricting flow? | Insufficient capacity, sequencing, policy, system limit, decision rights, resource availability, dependency; a bottleneck does not itself prove capacity is the cause |
+| Teams spend much time coordinating | Source: why is coordination repeatedly required? Dependency: why does progress depend on these interactions? Constraint: what prevents independent flow? | Fragmented ownership, unclear interfaces, duplicated responsibilities, information gaps, unnecessary dependency, structural constraints |
 
-> **What do we observe?**  
-> ↓  
-> **What context best explains it?**  
-> ↓  
-> **What does that context make visible?**  
-> ↓  
-> **What question does it reveal?**  
-> ↓  
-> **What insight does the question produce?**  
-> ↓  
-> **What deserves attention?**
+## What 3C can and cannot say about capacity, Human Energy, and experience
 
-This separation helps prevent organizations from moving directly from symptom to solution.
+3C identifies conditions that may consume or restrict usable capacity: unnecessary or repeated work, waiting, dependency, coordination, restricted decision rights, system limits, organizational barriers. It asks *what condition is affecting the organization’s ability to apply its available capacity?* It does not itself recover Human Energy, develop capability, connect capability, enable application, or manage execution.
 
-3C therefore distinguishes:
+| Topic | What 3C may help examine | What 3C does not establish |
+| --- | --- | --- |
+| Capacity | Conditions that consume or restrict usable capacity | That a changed condition releases usable capacity, or that released capacity is protected or applied (see the [OSF Value Test](https://github.com/titumozammel/operational-silence-framework#the-osf-value-test)) |
+| Human Energy | Conditions associated with Human Energy loss or interference (rework, unnecessary approvals, escalation, waiting, avoidable dependency) | That Human Energy has recovered; recovery belongs to the Core’s *Recover* intervention |
+| Capability | What context affects the non-application of available capability: Source, Dependency, Constraint, or a combination | That capability exists or is missing; 3C does not develop or enable it |
+| Employee Experience | The organizational context behind friction, waiting, rework, dependency, restricted autonomy, unclear decision rights | That experience will improve if the condition changes |
+| Customer Experience | Internal contexts that may sit behind delays, errors, effort, or inconsistent service | That a negative CX result proves a specific internal condition; the internal context still needs examination |
+| SLA and XLA | The organizational context that may affect the ability to sustain service and experience commitments | That a context is the reason a commitment was missed |
 
-> **Observation ≠ Interpretation ≠ Question ≠ Intervention**
+**Condition change and value.** The proposed pathway is: context → question → insight → attention → condition change → capacity effect → effective application → execution → sustainable execution capacity → sustainable business value **[P]**. 3C acts only at the front of it and does not guarantee any later step; each later step needs its own evidence. A changed condition is not an improved outcome, and released capacity is not value. Apply the Two Checks to the consequences of any change: was it Justified?, and is next-cycle capacity Covered?
 
----
+**Growth and complexity.** Growth commonly adds functions, systems, decisions, interfaces, dependencies, handoffs, and coordination. As complexity grows, attention may need to shift from managing more activity toward understanding the contexts that create and sustain it. Growth is not the problem, and some complexity is necessary; the question is which contexts create value and which consume capacity without it. This is a hypothesis to test, not a finding.
 
-# 10. 3C IN PRACTICE
+## Boundaries and architecture
 
-## Example 1 — Repeated Approvals
+HEE is the provisional capacity lens informed by economic questions. **OEOS** is the proposed operating architecture; **HEMS**, **HEA**, **HERF**, and **HEDP** are Human Energy and capability-management components documented within the Core. These are proposed constructs, not validated systems. 3C is a lens for attention and inquiry, not an operating system, a diagnostic condition, or an intervention. It directs attention; it does not replace the mechanisms that act on what attention reveals.
 
-Observation:
+| Related element | Its role | 3C boundary |
+| --- | --- | --- |
+| HEE Core | The capacity lens, diagnostic vocabulary, Two Checks, and research tests | The Core governs shared terms (its §8 summarizes 3C); 3C does not restate them as its own |
+| OSF | Whether recurring operational demand should exist at all, and what happens to the capacity released | 3C contextualizes the demand; OSF challenges unnecessary demand. 3C does not classify demand as unnecessary; where unnecessary recurring demand is confirmed, OSF and 5R may become relevant |
+| 5R | What to do: Remove, Reduce, Replace, Re-engineer, Retain | **3C = WHERE; 5R = HOW.** The relationship is complementary: not every 3C case needs 5R, not every 5R choice needs a prior 3C, and 5R is not a mandatory next stage |
+| HEEn | Enabling existing capability to be applied | 3C may surface a dependency or constraint that sits on an enablement condition; HEEn changes the enabling conditions |
+| HEL | A systemic orientation for recurring artificial restrictions; not a sixth intervention | 3C works at the level of one condition; systemic patterns may need the broader lens |
+| HEMS / HEA / HERF | Manage, audit, and recover Human Energy | 3C does not recover Human Energy |
+| HEDP | Develops genuinely missing capability | 3C cannot supply a skill that is absent |
+| EES | Manages execution through Find, Fix, Control, Adapt, Grow | 3C does not manage execution |
 
-> A routine activity repeatedly requires approval.
+Some elements are documented within the Core and have no separate repository. External conditions such as a regulation can be examined through a lens (a regulatory limit can be a legitimate Constraint), but 3C does not explain them or give authority to change them. Markets, strategy, technical failures, industrial relations, and health questions may need other explanations or specialists; do not force them into 3C. 3C is **not** a replacement for operational management, a universal problem-solving method, an automatic performance-improvement mechanism, or a replacement for TOC, root cause analysis, or project dependency methods.
 
-A Dependency question asks:
+**Prioritization [H].** The shared expression *Priority = Urgency × Interdependence × Value Impact* is a heuristic, not a validated equation or a meaningful numeric score without defensible scales. Use the factors alongside safety, authority, reversibility, uncertainty, and cost. Interdependence here is not identical to 3C’s Dependency context: **Dependency is a 3C contextual dimension; Interdependence is a shared prioritization dimension.** It is shared across the HEE documents and is not a construct derived by 3C.
 
-> **Why does action depend on approval?**
+## Working principles
 
-Possible explanations may include:
+**[H] Heuristics, not laws.** Each holds unless evidence, stakes, or urgency say otherwise.
 
-- unclear decision rights,
-- historical controls,
-- risk assumptions,
-- insufficient capability,
-- regulatory requirements,
-- legitimate governance,
-- organizational design.
+1. **Context before intervention:** understand the context before selecting the intervention.
+2. **Question before optimization:** ask the right question before optimizing the activity.
+3. **Source before symptom:** examine what generates or sustains the condition.
+4. **Dependency before escalation:** understand why action depends on someone or something before assuming escalation is needed.
+5. **Constraint before blame:** examine what restricts action before attributing failure to individuals.
+6. **Insight before action:** do not confuse observation with understanding.
+7. **Change conditions, not only consequences,** where evidence supports it.
+8. **Necessary conditions must remain:** do not eliminate a condition because it consumes resources or creates effort.
+9. **Examine the capacity effect:** consider what a condition does to the ability to apply capacity.
+10. **Address recurrence** where the same condition repeatedly recreates the same problem, and compare the cost and risk of prevention with continued response, asking whether prevention is proportionate to how often the condition recurs and to the risk of getting it wrong.
 
-3C does not assume the approval should be removed.
+**A leadership prompt [H].** *What context are we looking at, and what question does it make possible?* Then: what is primary, what is still open, what is Unknown, and what evidence would change the choice?
 
-It first determines the context.
+## Descriptive progression (legacy construct, not tested)
 
----
+Earlier editions described a nine-level progression. It is retained as an optional set of prompts, **[P] (legacy construct, not tested)**. It is not an established ordered maturity scale, a certification, or grounds to score organizations or people, and improvement can be uneven and reversible.
 
-## Example 2 — Billing Errors
+| Level | Prompt | What it describes |
+| --- | --- | --- |
+| 1. Reactive | “Fix what is happening.” | Attention on visible problems and immediate consequences |
+| 2. Aware | “This keeps happening.” | Recurrence is recognized |
+| 3. Contextual | “What context is involved?” | Attention shifts from symptoms to conditions |
+| 4. Questioning | “What question should we actually ask?” | The quality of the question is seen to matter |
+| 5. Insight-driven | “What does context reveal?” | Context generates understanding |
+| 6. Strategic attention | “Where should attention go?” | Attention is deliberately directed |
+| 7. Preventive | “What should we change before recurrence?” | Conditions are addressed before the problem returns |
+| 8. Capacity-directed | “What is this condition doing to our ability to apply capacity?” | Conditions are linked with capacity and application |
+| 9. Sustainable | “How do we keep understanding the conditions that sustain execution?” | Contextual inquiry becomes ongoing learning |
 
-Observation:
+## Relationship to the AKG practice record
 
-> Billing errors recur.
+The [AKG Record](https://github.com/titumozammel/hee-case-studies) describes six author-reported interventions associated with HEE’s development and notes that the cases also reflect the 3C lens. That is a retrospective reading. The record does not document which context was examined first in any case, how any condition was classified, or any comparison with another lens, and it was not designed to test 3C. Where another document lists the contexts with arrows, read them as three parallel lenses, not a sequence.
 
-A Source question asks:
+Do not use the cases to claim that the three contexts are distinct, that assessors can classify them reliably, or that choosing a context improved any decision. They can motivate a study; they cannot validate 3C.
 
-> **What keeps creating the billing errors?**
+The author remains Chief Innovation Officer at AKG. His operational involvement and originator role are material to interpreting the practice accounts. Research use requires appropriate authority, confidentiality, provenance, and access arrangements; no access is promised here.
 
-Possible sources may include:
+## Theory and contribution
 
-- incorrect source data,
-- unclear ownership,
-- system configuration,
-- incomplete information,
-- inconsistent rules,
-- upstream process conditions.
+*For readers who want the positioning argument; owners can skip to the research agenda.* Throughout this section, “explicitly includes” describes 3C’s content; it does not claim that the element is absent from the established approach, which is what the literature-positioning test is for. 3C does not claim that examining sources, dependencies, or constraints is newly discovered. Each orientation has established antecedents, and the proposed contribution is how the three are positioned and combined as parallel possibilities for attention. 3C is informed by established traditions **[E/A]**:
 
-The objective is not merely to correct individual errors but to understand the condition sustaining them.
+- **Theory of Constraints.** Eliyahu Goldratt’s Theory of Constraints holds that system performance can be limited by a constraint and that improvement should focus on it, with a cycle that identifies the constraint, exploits it, subordinates other activity to it, elevates it where necessary, and repeats. *TOC asks* what limits the system. *3C keeps that question* as its Constraint context, *explicitly includes* a test of whether the limit is legitimate, avoidable, or only believed, and treats the Constraint as one of three contexts rather than the whole approach. 3C does not claim superiority over or replacement of TOC.
+- **Root cause analysis.** Kaoru Ishikawa’s cause-and-effect approach and methods such as the 5 Whys investigate causal conditions rather than symptoms. *RCA asks* what causes the problem. *3C’s Source context shares that orientation* and *explicitly includes* two further contexts and a record of the alternatives kept open. **Source is not synonymous with root cause:** it names what generates or sustains the condition, while RCA is a broader family of methods. A condition may have a Source while the more important issue lies in a Dependency or Constraint.
+- **Critical path and dependency analysis.** The Critical Path Method (Kelley and Walker) gives formal attention to dependencies among activities and their effect on timing. *CPM asks* how activities depend on one another and what that does to the schedule. *3C’s Dependency context draws on the same concern* and *explicitly applies it* to organizational conditions such as decisions, approvals, handoffs, access, information, authority, and systems. CPM concerns project activities and schedules; 3C does not replace it.
+- **Problem formulation and reframing.** Schön (1983), Volkema (1983), and Baer, Dirks, and Nickerson (2013) are candidate starting points for work on how problems are framed before they are solved. *That literature asks* how the framing of a problem shapes what is seen and done. *3C’s premise, that context changes the question,* sits in this territory, and its relevance and fit must be checked in a focused synthesis; these works do not establish that 3C’s prompts are novel or effective.
 
----
+The syntheses are the author’s reading of these traditions **[A]**, not a literature review. “Explicitly includes” describes 3C’s content; whether those elements are absent from the established approaches is what the literature-positioning test is for.
 
-## Example 3 — Bottleneck
+The proposed contribution **[P]** is narrow: a context-selection discipline, treating Source, Dependency, and Constraint as parallel possibilities before defaulting to a familiar lens, with an explicit legitimacy check and a record of alternatives kept open. Whether this adds decision value beyond constraint management, causal analysis, and dependency analysis must be tested against credible alternatives with comparable evidence and effort.
 
-Observation:
+Source, Dependency, and Constraint may overlap substantially with established lenses and with one another. 3C does not presently show that they are distinct constructs. If the tests below find they collapse, narrow 3C to a set of question prompts.
 
-> Work accumulates at a particular point.
+| Approach | Primary starting point | Proposed 3C distinction (to be tested, not established) |
+| --- | --- | --- |
+| Traditional problem solving | The problem | Starts from a context-selection question |
+| Process improvement | The process | Does not assume the process is the correct unit of inquiry |
+| Lean and waste reduction | Waste or non-value activity | Starts from a context question rather than a waste classification; the two may overlap |
+| Automation | The activity | Asks whether the activity should exist in this form before automating |
+| Root cause analysis | A cause | Treats Source as one lens beside Dependency and Constraint |
+| Theory of Constraints | The system constraint | Constraint is one of three contexts, with a legitimacy test |
+| Delegation and empowerment | Decision authority | Examines the Dependency before assuming empowerment is the answer |
+| Strategic planning | Objectives and position | Concerns the organizational context affecting application and execution |
+| OSF | Unnecessary recurring operational demand | OSF decides whether demand should exist; 3C contextualizes it |
+| 5R | Disposition | 3C indicates where attention may belong; 5R determines disposition |
 
-A Constraint question asks:
+**Research versus practice.** A heuristic may help structure inquiry without being a validated causal model. Retain, merge, narrow, or retire labels when evidence does not support their intended role.
 
-> **What is restricting flow?**
+**References.** Goldratt, E. M., & Cox, J. (1984). *The Goal: A Process of Ongoing Improvement*. North River Press. · Ishikawa, K. (1972, English edition). *Guide to Quality Control*. Asian Productivity Organization. · Kelley, J. E., Jr., & Walker, M. R. (1959). Critical-path planning and scheduling. *Proceedings of the Eastern Joint Computer Conference*, 160–173. · Schön, D. A. (1983). *The Reflective Practitioner*. Basic Books. · Volkema, R. J. (1983). Problem formulation in planning and design. *Management Science, 29*(6), 639–652. · Baer, M., Dirks, K. T., & Nickerson, J. A. (2013). Microfoundations of strategic problem formulation. *Strategic Management Journal, 34*(2), 197–214. (Verify edition, year, and page-level details before formal publication.) See the [HEE Core](https://github.com/titumozammel/human-energy-economics) for its broader evidence map. These references establish antecedents, not validation of 3C.
 
-Possible explanations include:
+## Research agenda and tests
 
-- insufficient capacity,
-- sequencing,
-- policy,
-- system limitation,
-- decision rights,
-- resource availability,
-- dependency.
+The following are proposed 3C study questions, **not newly registered Core propositions**. References to P10, P12, and P15 indicate links to existing Core tests, not a claim that these studies have occurred or been preregistered.
 
-The observed bottleneck does not itself prove that capacity is the cause.
+**Which test to run first.** *Context classification reliability*, using the [coding sheet](#context-coding-sheet-and-first-reliability-check), is a sensible first study because several tests assume the labels can be used consistently. It is not a precondition for all of them: reader utility and comprehension of the prompts can be tested independently, and the prompts might prove useful even if exclusive primary-context labels turn out to be unreliable. The *literature-positioning* test is desk-based and can run in parallel.
 
----
+**P12 gate rule.** Any empirical study or pilot intended to generate evidence that context-first question formulation improves diagnosis or intervention selection must satisfy the Core’s P12 literature-synthesis gate, whatever the study is called. That includes the *incremental diagnostic value* study below when it tests that mechanism. Reliability and comprehension studies can examine whether readers understand and apply the prompts without claiming improved diagnosis.
 
-## Example 4 — Excessive Coordination
+| Test | Core proposition | Design and measures | Evidence supporting a bounded claim | Evidence weakening or narrowing it |
+| --- | --- | --- | --- | --- |
+| Context classification reliability | None: 3C-specific (parallels P11; the Core’s §8 candidate procedure) | Independent assessors receive the same case packet and classify the primary context and any secondary contexts before discussion; allow Mixed and Unknown; report raw and chance-corrected agreement on the primary label and agreement on the set of contexts named, with intervals; pre-register thresholds | Agreement exceeds a pre-specified threshold | Adequately documented cases cannot be classified reliably; revise definitions or reduce 3C to prompts |
+| Distinctness of the contexts | None: 3C-specific | For the same packets, have each independent assessor state, **before naming any primary context,** the evidence each of the three contexts would prompt them to seek (a within-assessor comparison, so the similarity reflects the contexts and not an assessor’s prior choice); code each request into a pre-specified evidence-type list (for example recurrence and upstream records, waiting and queue records, rule-purpose records, resource or limit records); for each packet compute the Jaccard similarity between the sets of evidence types the three contexts prompt, report the mean and range, and report agreement between assessors on a three-way judgment (*distinct / overlapping / indistinguishable*) for each pair of contexts; pre-specify and justify the thresholds before analysis (for example, illustratively, a mean Jaccard similarity below 0.5 read as distinct, above 0.8 as overlapping, and values between as inconclusive; these numbers are not validated and should be set from pilot data) | The contexts produce meaningfully different questions and evidence requests | The requests converge or the labels are used interchangeably; collapse the contexts into one prompt set |
+| Question formulation | P12 (gated on the focused literature synthesis) | Follow P12: compare 3C prompts with an alternative structured diagnostic prompt of comparable length and specificity, using the same case evidence, blinded independent experts, and a pre-agreed rubric; sample size from a power analysis | Context-derived questions are rated more relevant and better fitted to the evidence | No difference above the pre-specified minimum meaningful effect |
+| Incremental diagnostic value | None: 3C-specific (relates to P12; gated as above) | Compare 3C-guided inquiry with a named, versioned comparator using equal information, attention, and expertise: **primary:** a structured root cause analysis (5 Whys with a cause-and-effect diagram); **secondary:** the Theory of Constraints focusing steps. Blinded experts rate diagnostic accuracy, evidence fit, and intervention fit | Consistent, justified differences in diagnoses or evidence requests | No meaningful difference; narrow novelty to a context-selection prompt |
+| Legitimacy protection | None: 3C-specific | Use vignettes that embed a protective control and a genuinely unnecessary one; compare how often each approach proposes removing the necessary control and how often it fails to flag the unnecessary one | Fewer wrongful removals without missing unnecessary conditions | No difference under an adequate test; revise the claim that context-first protects necessary conditions |
+| Literature positioning | None: 3C-specific (unowned; parallels the P12 synthesis) | A documented, protocol-based review of constraint management, causal analysis, dependency analysis, and problem formulation; two independent coders map each 3C element and question to the nearest established construct, with the search strategy and disagreements recorded | Documented gaps: at least one 3C element (parallel treatment of the three contexts, the legitimacy check, the record of alternatives) has no close established equivalent | Two or more independent coders map every 3C element onto an existing construct with agreement above a pre-specified threshold; narrow 3C to a context-selection prompt |
+| Reader utility | P15 | Representative role-based tasks using this document versus a credible comparator; predefine completion-time and blinded quality criteria | Faster answers without unacceptable quality loss | Speed worsens or important answers cannot be found; revise routing |
 
-Observation:
+**What would retire or narrow 3C.** This is a document-level view; the Core README’s [framework-level table](https://github.com/titumozammel/human-energy-economics#what-would-reduce-or-retire-hee-as-a-whole-p) states the consequences for HEE as a whole.
 
-> Teams spend substantial time coordinating.
+| If a fair test finds | Then |
+| --- | --- |
+| Assessors cannot classify contexts reliably | 3C is a set of prompts, not a classification; do not report context labels as findings |
+| The three contexts cannot be told apart | Collapse them into one prompt set; withdraw the claim that they are distinct dimensions |
+| 3C-guided inquiry does not differ from a structured root cause analysis | 3C is a context-selection prompt and a legitimacy check rather than a new approach |
+| Context-derived questions are no better than a generic template (P12 null) | Withdraw the claim that context changes the question to better effect; keep the prompts as optional |
+| Context-first does not reduce wrongful removal of necessary conditions | Keep the legitimacy check as good practice; withdraw the claim that 3C provides it |
 
-A combined 3C inquiry may ask:
+**Minimum study protocol.** Follow the eight-item protocol in [HEEn](https://github.com/titumozammel/human-energy-enablement#minimum-study-protocol): claim, unit and setting; operational definitions; comparison; outcomes; design; decision rules; governance; and registration and reporting. A sufficiently precise null or contrary result after a fair test should narrow or reject the specified claim. Do not rescue a failed claim by changing definitions after seeing outcomes. See also the Core’s [falsification summary](https://github.com/titumozammel/human-energy-economics#falsification-summary-where-to-start-p).
 
-- **Source:** Why is coordination repeatedly required?
-- **Dependency:** Why does progress depend on these interactions?
-- **Constraint:** What prevents independent flow?
+### Context coding sheet and first reliability check
 
-Possible conditions include:
+This is a starter instrument **[P]** for the context classification test. All packets are **[Illustrative]** and show how the check works; they are not findings. Seven packets are enough to train raters and pilot the sheet, not to estimate reliability, which needs a sample sized in advance.
 
-- fragmented ownership,
-- unclear interfaces,
-- duplicated responsibilities,
-- information gaps,
-- unnecessary dependency,
-- structural constraints.
+**Rating sheet (one row per packet and rater).** Record: packet ID; rater; the primary context (*Source / Dependency / Constraint / Mixed / Unknown / Outside 3C*); any secondary contexts; confidence; the evidence cited; whether a causal explanation is established (*yes / partly / no / Unknown*); what evidence each context would prompt the rater to request; and the legitimacy of the condition (*legitimate / unnecessary / Unknown*). Raters work independently and do not discuss packets until agreement has been computed.
 
----
+**Provisional coding rule [P].** The primary context is the one whose governing question the packet’s evidence most directly supports a defensible answer to, not the one the rater finds most plausible. Code *Mixed* when two contexts are supported about equally, *Unknown* only when the packet does not support even which lens applies, and *Outside 3C* when the explanation lies in an external or specialist domain that 3C does not explain. Separate **which lens applies** from **whether a causal explanation is established**: where a lens clearly applies but the cause is not established, code the lens and record the explanation as Unknown. Revise the rule if raters cannot apply it, and version every revision.
 
-# 11. WHAT 3C SEES
+| ID | Case packet | What it is designed to test |
+| --- | --- | --- |
+| V1 | The same billing error is corrected by hand every month; the upstream data step has not changed | A clear Source |
+| V2 | Purchase orders wait for one approver; waits lengthen when she is absent | A clear Dependency |
+| V3 | Daily throughput is capped by a regulator’s single inspection slot per day | A legitimate Constraint (code legitimacy separately) |
+| V4 | Refund requests above a limit both return after earlier errors and wait for one approver; the limit’s purpose is not recorded | Mixed, with an Unknown legitimacy |
+| V5 | Support tickets escalate to level 3; the reasons for escalation are not recorded | A Dependency lens applies; the cause is Unknown, and Unknown is not forced onto the lens |
+| V6 | The quarterly forecast is late; interviewees blame the data feed, the approval, and unclear priorities | Mixed or Unknown, testing forced choice |
+| V7 | Orders fall because a major customer left the market | Outside 3C’s explanatory scope |
 
-3C treats the following as **signals requiring contextual inquiry**, not automatic evidence of waste or failure:
+**Worked coded case [Illustrative]: V4.** Both raters receive the same packet: eight weeks of refund records, queue records for the approver, and the note that the limit’s purpose is not recorded. *Rater A:* primary context Dependency (waits track the single approver’s absence, a measured link); secondary Source (an estimated 40% of above-limit requests follow earlier errors); Constraint Unknown; causal explanation established: partly; legitimacy of the limit: Unknown; evidence each context would prompt: Source, classify the cause of each above-limit request; Dependency, compare waits with and without the approver; Constraint, ask the risk owner for the limit’s purpose. *Rater B:* primary context Mixed (Source and Dependency supported about equally); Constraint Unknown; same legitimacy and explanation entries; the same three evidence requests. *Reconciliation, after agreement is computed:* the raters agree on the contexts named and on Unknown legitimacy but disagree on the primary label, because the Source evidence is an estimate from a 50-request sample and the Dependency evidence is a record. The disagreement is recorded as one on how to weigh estimated against measured evidence, not as an error. The packet is flagged for a follow-up that would resolve it: classify every above-limit request. Because the two raters’ evidence requests match, they agree on what to do next even though the primary labels differ. *Next step:* both would take the Establish route, classifying every above-limit request, with a named owner and a decide-by date.
 
-- recurring demand,
-- friction,
-- rework,
-- unnecessary or excessive dependency,
-- repeated intervention,
-- escalation,
-- coordination burden,
-- bottlenecks,
-- restrictions,
-- slow action,
-- unused capability,
-- inaccessible capability,
-- restricted decision rights,
-- capacity consumption without proportional value.
+**First reliability procedure [P].** (1) Pre-specify the threshold, the sample size, and the coefficients before rating. (2) Train raters on three packets; do not reuse them for the estimate. (3) Rate fresh packets independently, giving every rater the same evidence, with *Mixed*, *Unknown*, and *Outside 3C* allowed and counted as categories. (4) Report raw agreement, a chance-corrected coefficient (for two raters, Cohen’s kappa), and an interval for the primary label, and separately the agreement on the set of contexts named. (5) Only then discuss disagreements, revise the rule, and record the version. (6) Re-rate a fresh set under the revised rule. (7) Elicit each rater’s evidence requests for all three contexts before the primary label is recorded, then compare them, because raters can agree on a label and still ask for different evidence. For example (illustrative only), raw agreement of 0.75 and chance agreement of 0.295 give kappa = (0.75 − 0.295) ÷ (1 − 0.295) ≈ 0.65; the full arithmetic with an interval is in the [worked reliability example in OSF](https://github.com/titumozammel/operational-silence-framework#necessity-coding-pack-and-first-reliability-check); the numbers there are illustrative and carry no evidence about 3C.
 
-The key principle is:
+## Go further
 
-> **A signal is not a diagnosis.**
+Choose the destination that answers your next question. You need not read every repository.
 
-The observed condition must be contextualized before a conclusion is drawn.
+| Destination | Question it helps you pursue |
+| --- | --- |
+| [Author GitHub profile](https://github.com/titumozammel) | Where should I start across the author’s work? |
+| [Human Energy Economics](https://github.com/titumozammel/human-energy-economics) | How do I connect question, method, evidence, decision, and follow-up across the full capacity lens? |
+| [Operational Silence Framework](https://github.com/titumozammel/operational-silence-framework) | Does this recurring demand need to exist in this form? |
+| [3C Strategic Approach](https://github.com/titumozammel/3c-strategic-approach) | Where should I look: Source, Dependency, or Constraint? |
+| [5R Cascade Framework](https://github.com/titumozammel/5r-cascade-framework) | Should recurring demand be removed, reduced, replaced, re-engineered, or retained? |
+| [Human Energy Enablement](https://github.com/titumozammel/human-energy-enablement) | Which conditions prevent existing capability from being applied? |
+| [Execution Excellence System](https://github.com/titumozammel/execution-excellence-system) | How should execution be managed, controlled, and adapted? |
+| [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) | What do the author-reported practice accounts illustrate, and what remains unverified? |
 
----
+### A short learner exercise
 
-# 12. 3C AND ORGANIZATIONAL CAPACITY
+Think of one condition you keep managing. Write down: what should have happened, what happened, and for whom, without a cause. Then ask the three questions (Why does this keep arising? Why does action depend on someone or something else? What is preventing effective action?) and note what evidence you hold for each and what is Unknown. Name a primary context and one alternative. Check the purpose and safeguards of anything you would change. Choose Diagnose, Establish, or Verify and explain why. Review your reasoning before changing a control. [Return to the question map](#find-your-question).
 
-Within HEE:
+## Author, disclosure, and revision
 
-> **Capability = Potential.**
+**Md. Mozammel Hoque** — Independent Management Researcher, originator of HEE, and current Chief Innovation Officer at AKG. 3C is maintained as a developing conceptual framework within the HEE ecosystem. The author provides the commercial diagnostic service **The Capacity Read**, through Ovinabo Advisory. That interest is disclosed for transparency; service use and client testimonials do not validate 3C. This document does not require purchase of a service.
 
-> **Capacity = Ability to mobilize and apply potential.**
+**Revision record — 28 October 2026.** Revises the 3 September 2026 edition for alignment with the HEE Core, author profile, AKG record, HEEn, and OSF. Replaces the “Canonical Edition” status and the statements that the architecture is settled and fundamental redesign is not required with a provisional status and a research agenda. Adds the precision and evidence statements, evidence labels, reader routes, a one-page owner view, the five-column question map, The Decision Point, a worked case, a context-selection procedure with an evidence-pattern table, a section on legitimate conditions and necessary controls, a context coding sheet with a worked coded case and a first reliability procedure, a stated P12 gate rule, and a retirement table. Reframes “context determines focus” and “context changes the question” as a premise and a proposed contribution to test. Labels the nine-level progression a legacy construct that is not tested. Hedges the differentiation table, adds a synthesis for each antecedent and the problem-formulation literature as candidate starting points, aligns the prioritization variable to Interdependence, restates Capacity as in the Core’s glossary, separates which lens applies from whether a cause is established, and replaces the earlier ecosystem list with a boundary table (using the Core’s OEOS term in place of “OOS”). Removes repeated restatements of the value pathway and the repeated closing statements.
 
-Organizational conditions can consume or restrict usable capacity through:
+This is a revised Version 1.0 working document, not an assertion that an existing published release tag was changed. Public URLs are supplied as reader destinations; current live contents and the repository LICENSE file were not independently verified for this revision. Editorial readiness and structural link checks do not establish empirical validity or tested reader enjoyment.
 
-- unnecessary activity,
-- repeated work,
-- waiting,
-- dependency,
-- coordination,
-- intervention,
-- restricted decision rights,
-- system limitations,
-- organizational barriers.
+## License
 
-3C asks:
+This framework is released under the:
 
-> **What condition is affecting the organization's ability to apply its available capacity effectively?**
+> **MIT License**
 
-However, 3C does not itself:
-
-- recover Human Energy,
-- develop capability,
-- connect capability,
-- enable application,
-- manage execution.
-
-Its role is to identify the contextual conditions that deserve attention.
-
----
-
-# 13. 3C AND HUMAN ENERGY
-
-Conditions examined through 3C can contribute to Human Energy consumption or interference.
-
-Examples include:
-
-- repeated rework,
-- unnecessary approvals,
-- escalation,
-- excessive coordination,
-- repeated intervention,
-- waiting,
-- avoidable dependency,
-- restrictive conditions.
-
-3C can therefore help identify conditions associated with Human Energy loss.
-
-But:
-
-> **3C does not recover Human Energy.**
-
-Human Energy recovery remains within the appropriate HEE mechanisms, particularly Human Energy Recovery.
-
-3C identifies the context; other mechanisms act on the condition where appropriate.
-
----
-
-# 14. 3C, EX, CX, SLA AND XLA
-
-### Employee Experience
-
-Organizational conditions can affect EX through:
-
-- friction,
-- waiting,
-- rework,
-- dependency,
-- unnecessary intervention,
-- restricted autonomy,
-- unclear decision rights.
-
-3C examines the organizational context behind these conditions.
-
-### Customer Experience
-
-CX may reveal symptoms of internal conditions through:
-
-- delays,
-- errors,
-- effort,
-- slow resolution,
-- inconsistent service.
-
-However:
-
-> **Negative CX does not by itself prove a specific internal 3C condition.**
-
-The internal context still requires examination.
-
-### SLA
-
-A Service Level Agreement establishes service-performance commitments.
-
-### XLA
-
-An Experience Level Agreement focuses on customer or user experience.
-
-3C examines the organizational context affecting the ability to sustain both.
-
-> **SLA protects service performance. XLA protects customer/user experience. 3C examines organizational context affecting the ability to sustain both.**
-
----
-
-# 15. 3C AND ORGANIZATIONAL GROWTH
-
-Organizational growth commonly adds:
-
-- functions,
-- systems,
-- decisions,
-- interfaces,
-- dependencies,
-- specialized capabilities,
-- handoffs,
-- coordination,
-- priorities.
-
-As complexity increases, the challenge can shift from simply managing more activity toward understanding the contexts creating and sustaining that complexity.
-
-Therefore:
-
-> **From managing more complexity → to understanding contexts creating complexity.**
-
-Growth itself is not the problem.
-
-The requirement is that organizational attention evolves with organizational complexity.
-
----
-
-# 16. 3C AND THE HEE ECOSYSTEM
-
-3C occupies a specific position within the HEE ecosystem.
-
-| Component | Primary role |
-|---|---|
-| **HEE** | Foundational theory and economic lens |
-| **OEOS/OOS** | Management and operating architecture |
-| **OSF** | Reduces unnecessary recurring operational demand |
-| **3C** | Directs strategic attention through context |
-| **5R** | Determines tactical disposition |
-| **HEEn** | Enables effective application |
-| **EES** | Manages execution |
-| **HEMS** | Manages Human Energy and organizational capacity |
-| **HERF** | Recovers Human Energy |
-| **HEDP** | Develops capability |
-
-The ecosystem logic is:
-
-> **HEE explains. OEOS/OOS orchestrates. OSF reduces unnecessary demand. 3C directs attention. 5R determines disposition. HEEn enables application. EES manages execution.**
-
-These are complementary roles, not necessarily a rigid sequence.
-
----
-
-# 17. 3C AND OSF
-
-3C and OSF address related but distinct questions.
-
-### 3C asks:
-
-> **What context should receive attention?**
-
-### OSF asks:
-
-> **Should this recurring operational demand exist at all?**
-
-3C contextualizes the demand.
-
-OSF determines whether unnecessary recurring demand should be challenged.
-
-Therefore:
-
-> **3C contextualizes demand; OSF challenges unnecessary demand.**
-
-3C does not automatically classify observed demand as unnecessary.
-
----
-
-# 18. 3C → 5R
-
-The relationship between 3C and 5R is:
-
-> **3C = WHERE**  
-> **5R = HOW**
-
-3C identifies the context requiring attention.
-
-5R determines the potential disposition:
-
-> **REMOVE → REDUCE → REPLACE → RE-ENGINEER → RETAIN**
-
-The relationship is complementary.
-
-Not every 3C case requires 5R.
-
-Not every 5R intervention requires prior 3C.
-
-5R is therefore not a mandatory downstream stage of 3C.
-
----
-
-# 19. 3C AND CONDITION CHANGE
-
-3C improves the quality of attention so that action can be directed toward relevant conditions.
-
-Its core relationship is:
-
-> **Context → Question → Insight → Attention → Condition Change**
-
-Condition change may subsequently affect:
-
-> **Capacity → Effective Application → Execution → Sustainable Execution Capacity → Sustainable Business Value**
-
-But 3C does not guarantee those outcomes.
-
-It creates the possibility for better-directed action.
-
----
-
-# 20. VALUE CREATION LOGIC
-
-3C does not directly create business value.
-
-Its contribution is upstream.
-
-The conceptual value pathway is:
-
-> **CONTEXT → QUESTION → INSIGHT → ATTENTION → CONDITION CHANGE → CAPACITY EFFECT → EFFECTIVE APPLICATION → EXECUTION → SUSTAINED EXECUTION CAPACITY → SUSTAINABLE BUSINESS VALUE**
-
-Therefore:
-
-> **3C creates possibility before it creates performance.**
-
-Its value lies in improving the quality and direction of organizational attention before resources are committed to intervention.
-
----
-
-# 21. CORE PRINCIPLES
-
-### Principle 1 — Context Before Intervention
-
-Understand the context before selecting the intervention.
-
-### Principle 2 — Question Before Optimization
-
-Ask the right question before attempting to optimize the activity.
-
-### Principle 3 — Source Before Symptom
-
-Examine what generates or sustains the condition.
-
-### Principle 4 — Dependency Before Escalation
-
-Understand why action depends on another person, function, system, or condition before assuming escalation is required.
-
-### Principle 5 — Constraint Before Blame
-
-Examine what restricts action before attributing failure to individuals.
-
-### Principle 6 — Insight Before Action
-
-Do not confuse observation with understanding.
-
-### Principle 7 — Change Conditions, Not Just Consequences
-
-Where appropriate, act on the condition producing or sustaining the observed outcome.
-
-### Principle 8 — Necessary Conditions Must Remain
-
-Do not eliminate a condition merely because it consumes resources or creates effort.
-
-### Principle 9 — Capacity Effect Must Be Examined
-
-Consider what a condition does to the organization's ability to apply capacity.
-
-### Principle 10 — Prevent Recurrence
-
-Where appropriate, address the conditions that repeatedly recreate the same problem.
-
----
-
-# 22. WHAT 3C DOES NOT ASSUME
-
-3C does **not** assume that:
-
-- all recurring work is unnecessary;
-- all dependencies are bad;
-- all constraints should be removed;
-- all approvals are unnecessary;
-- all coordination is waste;
-- all escalation indicates failure;
-- all intervention is harmful;
-- all bottlenecks are capacity problems;
-- all negative CX originates internally;
-- autonomy is always desirable;
-- every problem has one root cause;
-- Source is always eliminable;
-- every condition can or should be optimized.
-
-This is important because 3C is a **contextual inquiry approach**, not an elimination philosophy.
-
----
-
-# 23. MANAGEMENT LOGIC
-
-The conceptual management logic is:
-
-> **CONTEXT → FOCUS → QUESTION → INSIGHT → ATTENTION → ACTION → CONDITION CHANGE → CAPACITY EFFECT → APPLICATION → EXECUTION**
-
-A practical expression is:
-
-> **LOOK → CONTEXTUALIZE → QUESTION → UNDERSTAND → FOCUS → CHANGE → OBSERVE EFFECT → LEARN → ADAPT**
-
-This is a practical logic, not a mandatory or rigid process.
-
----
-
-# 24. LEADERSHIP DIAGNOSTIC TEST
-
-A leader applying 3C can ask:
-
-1. What are we observing?
-2. What context are we looking at?
-3. Which context appears primary?
-4. What question does that context create?
-5. What insight does the question reveal?
-6. Where should attention go?
-7. What condition should change?
-8. What capacity effect might result?
-9. What happens to effective application?
-10. What happens to execution?
-11. What did we learn?
-12. What should we adapt?
-
-The central leadership question is:
-
-> **What context are we looking at—and what question does it make possible?**
-
----
-
-# 25. PRIORITIZATION
-
-3C may use the following **shared ecosystem prioritization heuristic**:
-
-> **Priority = Urgency × Interdependence × Value Impact**
-
-This is shared infrastructure across the HEE ecosystem, rather than a mathematical construct independently derived by 3C.
-
-Within the heuristic, **Interdependence** refers to the magnitude or significance of relationships affecting movement, action, or outcomes.
-
-It should not be interpreted as redefining **Dependency**, which remains one of the three canonical 3C contexts.
-
-The distinction is deliberate:
-
-> **Dependency = a 3C contextual dimension.**  
-> **Interdependence = a shared prioritization dimension.**
-
-The heuristic is conceptual and directional, not a validated universal mathematical law.
-
----
-
-# 26. MATURITY MODEL
-
-3C can be understood conceptually through a **nine-level maturity progression**.
-
-### Level 1 — Reactive
-
-> **“Fix what is happening.”**
-
-Attention is directed primarily toward visible problems and immediate consequences.
-
-### Level 2 — Aware
-
-> **“This keeps happening.”**
-
-The organization recognizes recurrence.
-
-### Level 3 — Contextual
-
-> **“What context is involved?”**
-
-Attention begins shifting from symptoms toward contextual conditions.
-
-### Level 4 — Questioning
-
-> **“What question should we actually ask?”**
-
-The organization recognizes that the quality of the question influences the quality of the diagnosis.
-
-### Level 5 — Insight-Driven
-
-> **“What does context reveal?”**
-
-Context is used to generate deeper understanding.
-
-### Level 6 — Strategic Attention
-
-> **“Where should attention go?”**
-
-Attention becomes deliberately directed toward the most relevant contextual condition.
-
-### Level 7 — Preventive
-
-> **“What should we change before recurrence?”**
-
-The organization increasingly addresses conditions before the same problem reappears.
-
-### Level 8 — Capacity-Directed
-
-> **“What is this condition doing to our ability to apply capacity?”**
-
-The organization connects contextual conditions with organizational capacity and effective application.
-
-### Level 9 — Sustainable
-
-> **“How do we continuously understand and improve conditions that sustain execution?”**
-
-Contextual inquiry becomes part of ongoing organizational learning and adaptation.
-
----
-
-# 27. DIFFERENTIATION
-
-3C differs from established management approaches not because it claims ownership of their underlying ideas, but because it assigns **Source, Dependency, and Constraint** a specific role as co-equal contextual dimensions for directing attention before intervention.
-
-| Approach | Primary starting point | 3C distinction |
-|---|---|---|
-| Traditional Problem Solving | Problem | Asks what context determines the appropriate question |
-| Process Improvement | Process | Does not assume the process itself is the correct unit of inquiry |
-| Lean / Waste Reduction | Waste / non-value activity | Does not assume observed activity is waste |
-| Automation | Activity | Asks whether the activity should exist before automating it |
-| Root Cause Analysis | Cause | Treats Source as one contextual dimension alongside Dependency and Constraint |
-| Constraint Management / TOC | System constraint | Constraint is one of three 3C contexts, not the entire approach |
-| Delegation / Empowerment | Decision authority | Examines Dependency before assuming empowerment is the answer |
-| Strategic Planning | Objectives / strategic position | Focuses on organizational context affecting application and execution |
-| HEE | Human Energy / organizational capacity | Provides a contextual attention lens within HEE |
-| OSF | Unnecessary recurring operational demand | Contextualizes conditions; OSF determines whether demand should exist |
-| 5R | Disposition | 3C determines where attention may belong; 5R determines disposition where applicable |
-
-The central distinction is:
-
-> **3C does not begin by asking what to improve. It begins by understanding the context that determines what question should be asked.**
-
----
-
-# 28. 3C AND OPERATIONAL DEMAND
-
-3C can be applied to recurring operational demand.
-
-However, it does not automatically classify demand as unnecessary.
-
-Demand may be:
-
-- necessary,
-- legally required,
-- risk-related,
-- customer-required,
-- strategically important,
-- value-creating,
-- protective,
-- or genuinely unnecessary.
-
-3C asks what context is creating or sustaining the demand.
-
-Where unnecessary recurring demand is confirmed, OSF and 5R may become relevant.
-
-Therefore:
-
-> **3C contextualizes demand; OSF challenges unnecessary demand.**
-
----
-
-# 29. 3C AND CAPABILITY
-
-Within HEE:
-
-> **Capability = Potential.**
-
-Capability may exist but remain:
-
-- unused,
-- inaccessible,
-- disconnected,
-- restricted,
-- dependent,
-- unsupported,
-- or otherwise difficult to apply.
-
-3C asks:
-
-> **What context is affecting the non-application of available capability?**
-
-The answer may be:
-
-- Source,
-- Dependency,
-- Constraint,
-- or a combination.
-
-3C does not itself develop or enable the capability.
-
----
-
-# 30. 3C AND EFFECTIVE APPLICATION
-
-Capability does not automatically become application.
-
-The conceptual relationship is:
-
-> **Capability → Application**
-
-But application is affected by organizational conditions.
-
-3C therefore asks:
-
-> **What context is affecting our ability to apply the capability?**
-
-That context may be a:
-
-> **Source · Dependency · Constraint**
-
-or a combination of them.
-
-The resulting intervention may belong to another HEE mechanism.
-
----
-
-# 31. 3C AND OTHER HEE MECHANISMS
-
-3C has a specific ownership boundary.
-
-| Mechanism / framework | Primary ownership |
-|---|---|
-| HEE | Economic theory and foundational logic |
-| OEOS/OOS | Organizational operating architecture |
-| OSF | Operational demand and silence |
-| 3C | Strategic contextual attention |
-| 5R | Tactical disposition |
-| HEMS | Human Energy and capacity management |
-| HERF | Human Energy recovery |
-| HEDP | Capability development |
-| HEEn | Organizational enablement |
-| EES | Execution management |
-
-Therefore:
-
-> **3C directs attention. It does not replace the mechanisms that act on what attention reveals.**
-
----
-
-# 32. RELATED WORK AND THEORETICAL POSITION
-
-3C does not claim that examining sources, dependencies, or constraints is newly discovered.
-
-Each of these orientations has established intellectual antecedents.
-
-The contribution of 3C lies in **how these contextual dimensions are positioned and combined as parallel possibilities for organizational attention**.
-
----
-
-## 32.1 Constraint — Theory of Constraints
-
-The **Theory of Constraints (TOC)**, associated particularly with Eliyahu M. Goldratt, establishes the idea that system performance can be limited by constraints and that improvement should focus attention on the limiting constraint.
-
-The classic TOC improvement logic includes identifying the constraint, exploiting it, subordinating other activity to it, elevating it where necessary, and repeating the cycle.
-
-Constraint is therefore a direct and important antecedent to the 3C Constraint context.
-
-3C does **not** claim to discover constraint management.
-
-Its distinction is one of **scope and role**.
-
-In 3C:
-
-> **Constraint is one of three co-equal contextual dimensions.**
-
-TOC, by contrast, is a broader management philosophy and improvement cycle organized around system constraints.
-
-3C asks:
-
-> **What is restricting action or flow?**
-
-That question may lead to TOC, another constraint-management method, or another appropriate intervention.
-
-3C does not replace TOC.
-
-It prevents organizations from assuming that every condition should be examined exclusively through a constraint lens.
-
-A single condition may be:
-
-> **Source + Dependency + Constraint**
-
-at the same time.
-
----
-
-## 32.2 Source — Root Cause Analysis
-
-Root Cause Analysis and related causal-analysis methods establish the importance of examining what generates observed problems.
-
-Ishikawa's cause-and-effect approach and subsequent methods such as the **5 Whys** represent established traditions of investigating causal conditions rather than merely treating symptoms.
-
-3C Source shares this orientation.
-
-However:
-
-> **Source is not synonymous with “root cause.”**
-
-Source identifies the condition that generates or sustains an observed condition.
-
-RCA represents a broader family of causal-analysis methods.
-
-The distinction is that Source is one of three 3C contextual dimensions rather than the exclusive or dominant diagnostic lens.
-
-A condition may have a Source while the more important organizational issue lies in a Dependency or Constraint.
-
----
-
-## 32.3 Dependency — Critical Path and Dependency Analysis
-
-Project scheduling and dependency-management traditions have long established the importance of understanding relationships among activities and the effects of dependencies on timing, sequencing, and performance.
-
-Critical Path Method (CPM), developed through the work of Kelley and Walker, provides an important historical antecedent for formal attention to activity dependencies.
-
-3C Dependency draws on the same fundamental concern:
-
-> **Action can depend upon something else.**
-
-However, 3C applies the idea more broadly to organizational conditions such as:
-
-- decisions,
-- approvals,
-- handoffs,
-- capability access,
-- information,
-- resources,
-- authority,
-- systems,
-- execution conditions.
-
-CPM is primarily concerned with project activities, sequencing, and schedules.
-
-3C is concerned with the broader organizational context in which dependency affects application and execution.
-
----
-
-## 32.4 Theoretical Position
-
-3C can therefore be positioned as:
-
-> **A context-selection framework that draws on three established diagnostic traditions—constraint management, root cause analysis, and dependency analysis—and integrates them as three co-equal contextual dimensions for determining where organizational attention should go before selecting an intervention method.**
-
-Its distinctive contribution is **not any one of the three lenses individually**.
-
-Each has a deeper literature and established methods.
-
-The contribution is the disciplined treatment of:
-
-> **Source · Dependency · Constraint**
-
-as parallel contextual possibilities before an organization defaults to a familiar diagnostic or intervention lens.
-
-### Canonical definitions
-
-> **Source = what generates or sustains the condition.**
-
-> **Dependency = what the condition depends upon.**
-
-> **Constraint = what restricts or limits action or flow.**
-
-These are three contextual dimensions, not competing theories of causation.
-
-A single condition may require one, two, or all three.
-
----
-
-## 32.5 Theoretical Boundary
-
-3C does not claim:
-
-- originality of Root Cause Analysis;
-- originality of dependency analysis;
-- originality of constraint management;
-- superiority over Theory of Constraints;
-- replacement of RCA;
-- replacement of CPM;
-- replacement of established dependency-management methods.
-
-Its narrower distinctive claim is:
-
-> **3C provides a context-selection discipline for determining which established contextual lens should receive attention before an intervention is selected.**
-
----
-
-## 32.6 References
-
-1. Goldratt, E. M., & Cox, J. (1984). *The Goal: A Process of Ongoing Improvement*. North River Press.
-
-2. Ishikawa, K. (1968). *Guide to Quality Control*. Asian Productivity Organization.
-
-3. Kelley, J. E., Jr., & Walker, M. R. (1959). “Critical-path planning and scheduling.” *Proceedings of the Eastern Joint Computer Conference*, 160–173.
-
----
-
-# 33. RESEARCH POSITION
-
-3C is a **conceptual strategic management framework**, not an empirically validated universal theory.
-
-Its current claims are conceptual.
-
-Future research may examine:
-
-- construct validity;
-- construct distinctiveness;
-- reliability;
-- diagnostic usefulness;
-- practical applicability;
-- interactions among Source, Dependency, and Constraint;
-- relationships with organizational capacity;
-- relationships with Human Energy;
-- relationships with EX and CX;
-- relationships with execution outcomes;
-- measurement approaches;
-- empirical validation.
-
-Future research should determine:
-
-1. whether the three dimensions are empirically distinguishable;
-2. whether practitioners can reliably identify them;
-3. whether context selection improves diagnostic quality;
-4. whether improved contextual diagnosis improves intervention selection;
-5. whether this produces measurable improvements in organizational outcomes.
-
----
-
-# 34. CONCEPTUAL BOUNDARIES
-
-3C is particularly useful where:
-
-- a visible problem has multiple possible explanations;
-- recurring conditions are being repeatedly managed;
-- organizational attention is fragmented;
-- symptoms are being treated repeatedly;
-- dependencies are unclear;
-- constraints are unclear;
-- root-cause thinking alone may be insufficient;
-- intervention appears premature;
-- capability exists but is not being effectively applied.
-
-3C is **not**:
-
-- a replacement for operational management;
-- a universal problem-solving method;
-- an execution system;
-- a Human Energy recovery system;
-- a capability-development system;
-- an enablement framework;
-- an automatic performance-improvement mechanism;
-- a replacement for TOC;
-- a replacement for RCA;
-- a replacement for project dependency methods.
-
-Its role is:
-
-> **Context-focused strategic attention and inquiry.**
-
----
-
-# 35. QUICK REFERENCE
-
-### Identity
-
-> **Context-focused strategic approach**
-
-### Core premise
-
-> **Context determines focus.**
-
-### Core distinction
-
-> **Context before intervention.**
-
-### Three contexts
-
-> **Source · Dependency · Constraint**
-
-### Governing questions
-
-**Source**
-
-> **Why does this keep arising?**
-
-**Dependency**
-
-> **Why does action depend on someone or something else?**
-
-**Constraint**
-
-> **What is preventing effective action?**
-
-### Strategic role
-
-> **Direct attention.**
-
-### Cognitive logic
-
-> **Context → Focus → Question → Insight → Action**
-
-### Condition logic
-
-> **Action → Condition Change → Capacity Effect**
-
-### Application logic
-
-> **Capacity Effect → Effective Application → Execution**
-
-### 3C → 5R
-
-> **WHERE → HOW**
-
-### Value pathway
-
-> **Condition Change → Capacity Effect → Application → Execution → Sustainable Execution Capacity → Sustainable Business Value**
-
-### HEE relationship
-
-> **Contextual attention**
-
-### Primary question
-
-> **What context are we looking at?**
-
-### Final question
-
-> **What question does that context make possible?**
-
----
-
-# 36. SIMPLEST FORM
-
-The simplest representation of 3C is:
-
-> **CONTEXT → QUESTION → INSIGHT → ATTENTION → CHANGE → POSSIBILITY**
-
-3C changes the context of attention.
-
-Changed context changes the question.
-
-The changed question reveals or creates new insight.
-
-Insight redirects attention.
-
-Redirected attention enables more relevant condition change.
-
-Condition change creates new possibilities for capacity and application.
-
-Therefore:
-
-> **3C changes where the organization looks before it decides what to change.**
-
----
-
-# 37. FINAL PRINCIPLE
-
-> **Do not begin by asking what to improve. Begin by understanding the context that determines what question should be asked.**
-
----
-
-# FINAL QUESTION
-
-> **What context are we looking at—and what question does it make possible?**
-
----
-
-# RELATED FRAMEWORKS
-
-**Human Energy Economics (HEE)**  
-Foundational economic theory and lens.
-
-**Operational Silence Framework (OSF)**  
-Reduces unnecessary recurring operational demand.
-
-**5R Cascade**  
-Determines tactical disposition: Remove → Reduce → Replace → Re-engineer → Retain.
-
-**Human Energy Enablement (HEEn)**  
-Addresses organizational conditions affecting effective application.
-
-**Execution Excellence System (EES)**  
-Manages execution through FIND → FIX → CONTROL → ADAPT → GROW.
-
----
-
-# STATUS
-
-**Version 1.0 — Canonical Edition**
-
-The architecture of 3C is considered settled at this stage.
-
-Future development should focus primarily on:
-
-- application;
-- research;
-- measurement;
-- empirical validation;
-- case development;
-- practical diagnostic tools.
-
-Fundamental redesign is not currently required.
-
----
-
-# CREATOR
-
-**Md. Mozammel Hoque**  
-*Independent Management Researcher*  
-*Originator of Human Energy Economics (HEE)*
-
----
-
-# LICENSE
-
-**MIT License**
-
----
-
-# CLOSING
-
-> **It changes where the organization looks before it decides what to change.**
-
-> **Context determines focus.**
-
-> **Context changes the question.**
-
-> **Better questions create better possibilities for action.**
+The license permits use, modification, distribution, and further development subject to the terms of the MIT License. Copyright © 2026 Md. Mozammel Hoque. The full text is in the `LICENSE` file in the repository. Attribution is requested as a scholarly practice; it is not an additional license restriction. A license permits reuse, not a claim of scientific validation or author endorsement.
