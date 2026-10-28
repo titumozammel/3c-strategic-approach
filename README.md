@@ -57,6 +57,8 @@ Read in sequence only if useful. Follow the question map when you have a specifi
 5. **Ask for the cheapest evidence that would tell the contexts apart,** with an owner and a date, before approving an intervention.
 6. **Hand off with a reason.** Name the repository that best fits the case and say why. A hand-off record holds the condition, the primary context, the evidence still missing, and the next step’s owner and date. Where the work is recurring demand, use [OSF](https://github.com/titumozammel/operational-silence-framework); to choose a disposition, [5R](https://github.com/titumozammel/5r-cascade-framework); where capability is blocked, [HEEn](https://github.com/titumozammel/human-energy-enablement).
 
+**Speed [H].** Rigor scales with the stakes. For an urgent, reversible decision, ask the three questions once, take a reversible first step with a stop rule written beforehand, and record what is Unknown; a full study is not required.
+
 **Ask your team for:** the observation without a cause; the context chosen and the alternatives kept open; what is Unknown; what evidence would change the choice; and an inquiry record that names the decision owner, the evidence deadline, and the review date.
 
 **Do not:** treat a signal as a diagnosis; remove an approval because it is slow; assume the first context that fits is the only one.
@@ -119,7 +121,7 @@ Therefore: **Signal ≠ Diagnosis**, **Source ≠ Root Cause**, **Dependency ≠
 
 ## The Decision Point
 
-*Quoted from the Core README’s The Decision Point (the canonical text). If the two differ, the Core README governs.*
+*Quoted from the Core README’s The Decision Point (the canonical text, without its illustrative example). If the two differ, the Core README governs.*
 
 Within HEE, consequential decisions along the pathway from capability to sustainable results should be explicit and reviewable. Evaluate them using four distinct definitions:
 
@@ -414,7 +416,7 @@ Choose the destination that answers your next question. You need not read every 
 | [3C Strategic Approach](https://github.com/titumozammel/3c-strategic-approach) | Where should I look: Source, Dependency, or Constraint? |
 | [5R Cascade Framework](https://github.com/titumozammel/5r-cascade-framework) | Should recurring demand be removed, reduced, replaced, re-engineered, or retained? |
 | [Human Energy Enablement](https://github.com/titumozammel/human-energy-enablement) | Which conditions prevent existing capability from being applied? |
-| [Execution Excellence System](https://github.com/titumozammel/execution-excellence-system) | How should execution be managed, controlled, and adapted? |
+| [Execution Excellence System](https://github.com/titumozammel/execution-excellence-system) | What prevents reliable execution, and how do we fix it and make it hold? |
 | [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) | What do the author-reported practice accounts illustrate, and what remains unverified? |
 
 ### A short learner exercise
@@ -427,7 +429,7 @@ Think of one condition you keep managing. Write down: what should have happened,
 
 **Revision record — 28 October 2026.** Revises the 3 September 2026 edition for alignment with the HEE Core, author profile, AKG record, HEEn, and OSF. Replaces the “Canonical Edition” status and the statements that the architecture is settled and fundamental redesign is not required with a provisional status and a research agenda. Adds the precision and evidence statements, evidence labels, reader routes, a one-page owner view, the five-column question map, The Decision Point, a worked case, a context-selection procedure with an evidence-pattern table, a section on legitimate conditions and necessary controls, a context coding sheet with a worked coded case and a first reliability procedure, a stated P12 gate rule, and a retirement table. Reframes “context determines focus” and “context changes the question” as a premise and a proposed contribution to test. Labels the nine-level progression a legacy construct that is not tested. Hedges the differentiation table, adds a synthesis for each antecedent and the problem-formulation literature as candidate starting points, aligns the prioritization variable to Interdependence, restates Capacity as in the Core’s glossary, separates which lens applies from whether a cause is established, and replaces the earlier ecosystem list with a boundary table (using the Core’s OEOS term in place of “OOS”). Removes repeated restatements of the value pathway and the repeated closing statements.
 
-This is a revised Version 1.0 working document, not an assertion that an existing published release tag was changed. Public URLs are supplied as reader destinations; current live contents and the repository LICENSE file were not independently verified for this revision. Editorial readiness and structural link checks do not establish empirical validity or tested reader enjoyment.
+This is a revised Version 1.0 working document, not an assertion that an existing published release tag was changed. Public URLs are provided as reader destinations; current live contents and the repository LICENSE file were not independently verified for this revision. Editorial readiness and structural link checks do not establish empirical validity or tested reader enjoyment.
 
 ## License
 
