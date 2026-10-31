@@ -7,11 +7,11 @@
 **Md. Mozammel Hoque**  
 *Independent Management Researcher · Originator of Human Energy Economics (HEE)*
 
-**Version 1.0 — Revised companion framework**  
-**Revision date: 28 October 2026**  
+**Version 1.0 — Companion framework**  
+**Revision date: 31 October 2026**  
 **Status: provisional research and practice reference**
 
-[HEE Core](https://github.com/titumozammel/human-energy-economics) · [Author profile](https://github.com/titumozammel) · [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) · [OSF](https://github.com/titumozammel/operational-silence-framework) · [5R Cascade](https://github.com/titumozammel/5r-cascade-framework) · [HEEn](https://github.com/titumozammel/human-energy-enablement) · [3C repository](https://github.com/titumozammel/3c-strategic-approach)
+[HEE Core](https://github.com/titumozammel/human-energy-economics) · [Author profile](https://github.com/titumozammel) · [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) · [OSF](https://github.com/titumozammel/operational-silence-framework) · [3C](https://github.com/titumozammel/3c-strategic-approach) · [5R Cascade](https://github.com/titumozammel/5r-cascade-framework) · [HEEn](https://github.com/titumozammel/human-energy-enablement) · [EES](https://github.com/titumozammel/execution-excellence-system)
 
 > **Precision statement.** The 3C Strategic Approach is HEE’s proposed approach for deciding where to look (at a Source, a Dependency, or a Constraint) before choosing what to change about a condition that affects application and execution. It does not establish that selecting a context improves a diagnosis or an intervention, that the three contexts are distinct, that assessors can classify them reliably, or that any condition it surfaces is a problem. Those are questions for evidence.
 
@@ -110,7 +110,7 @@ These are overlapping lenses, not sequential steps, and 3C is not a three-step p
 
 ## Definitions and distinctions
 
-These definitions follow the closed HEE Core reference for this revision. Where 3C adds a term, it says so.
+These definitions follow the HEE Core README. Where 3C adds a term, it says so.
 
 | Term | Working meaning | Practical distinction |
 | --- | --- | --- |
@@ -308,7 +308,7 @@ Some elements are documented within the Core and have no separate repository. Ex
 
 ## Descriptive progression (legacy construct, not tested)
 
-Earlier editions described a nine-level progression. It is retained as an optional set of prompts, **[P] (legacy construct, not tested)**. It is not an established ordered maturity scale, a certification, or grounds to score organizations or people, and improvement can be uneven and reversible.
+A nine-level progression is offered as an optional set of prompts, **[P] (legacy construct, not tested)**. It is not an established ordered maturity scale, a certification, or grounds to score organizations or people, and improvement can be uneven and reversible.
 
 | Level | Prompt | What it describes |
 | --- | --- | --- |
