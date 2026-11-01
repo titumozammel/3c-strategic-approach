@@ -90,7 +90,7 @@ What 3C has and has not shown is in the [evidence status](#3c-strategic-approach
 | How do four decision concepts apply to context selection? | Separate assessments | Owner, learner, auditor | [Four decision concepts](#the-decision-point) | What to improve and what evidence to review |
 | What do the AKG cases establish about 3C? | Judge practice evidence | Academic, practitioner | [AKG record](#relationship-to-the-akg-practice-record) | Whether an example informs a hypothesis or needs a new test |
 | What would support, narrow, or falsify 3C? | Design a fair test | Researcher | [Research tests](#research-agenda-and-tests) | Which study to run and what claim to revise |
-| Which HEE repository should I read next? | Route onward | All readers | [Go further](#go-further) | Where to continue without reading every repository |
+| Which HEE repository should I read next? | Route onward | All readers | [Go further](#go-further), the repository view | Where to continue without reading every repository |
 
 ## The three contexts
 
@@ -98,7 +98,7 @@ What 3C has and has not shown is in the [evidence status](#3c-strategic-approach
 
 > **SOURCE · DEPENDENCY · CONSTRAINT**
 
-These are overlapping lenses, not sequential steps, and 3C is not a three-step process. A single condition may involve one context, two, or all three. A repeated approval, for example, can be a Dependency (action depends on it), a Source (it generates workload or delay), and a Constraint (it restricts timely action) at once. The purpose is to decide which context, or combination, deserves attention first, before choosing an intervention.
+These are overlapping lenses, not sequential steps, and 3C is not a three-step process. These three are proposed as parallel lenses; whether they are distinct is what the distinctness test in [Research agenda and tests](#research-agenda-and-tests) is for. A single condition may involve one context, two, or all three. A repeated approval, for example, can be a Dependency (action depends on it), a Source (it generates workload or delay), and a Constraint (it restricts timely action) at once. The purpose is to decide which context, or combination, deserves attention first, before choosing an intervention.
 
 | Context | Working meaning | Governing question | Typical signals (not diagnoses) | The legitimate possibility to keep open |
 | --- | --- | --- | --- | --- |
@@ -106,7 +106,17 @@ These are overlapping lenses, not sequential steps, and 3C is not a three-step p
 | <a id="dependency"></a>**Dependency** | What the condition depends upon: another person, function, approval, system, resource, or condition | Why does action depend on someone or something else? | Approvals, handoffs, waiting, escalation, coordination, restricted decision authority, dependence on information or resources | The dependency may be necessary, enabling, protective, or temporary, as well as unnecessarily restrictive |
 | <a id="constraint"></a>**Constraint** | What restricts or limits movement, application, decision, flow, or execution | What is preventing effective action? | Bottlenecks, restrictive policies, unavailable resources, system limits, conflicting requirements, access or process restrictions | The constraint may be legitimate, avoidable, or only believed; find out which before acting |
 
-**A signal is not a diagnosis.** A signal is something that calls for inquiry; the observed condition has to be placed in context before any conclusion is drawn. **Response orientations** follow only from evidence: Source inquiry may lead toward prevention or redesign, Dependency inquiry toward clearer decision rights or interfaces, Constraint inquiry toward constraint management or policy or resource changes. These are orientations, not the names of the C’s, and none is prescribed.
+**A signal is not a diagnosis.** A signal is something that calls for inquiry; the observed condition has to be placed in context before any conclusion is drawn.
+
+**Continuing disciplines and response orientations [H].** Each context is associated with a proposed continuing discipline. These three are fundamental to how 3C is applied, but they are practice heuristics, not defining commitments of the framework, and their relationship to the contexts is proposed. They are **not the names of the C’s**: the three contexts remain Source, Dependency, and Constraint.
+
+| Context | Proposed continuing discipline | Other response orientations the evidence may support |
+| --- | --- | --- |
+| Source | **Continuous improvement** | Corrective action, redesign, prevention |
+| Dependency | **Continuous empowerment** | Clearer decision rights, interface redesign, clarified ownership |
+| Constraint | **Continuous constraint reduction** | Constraint management, resource, policy, or sequencing changes |
+
+These are proposed continuing disciplines, not automatic responses or exclusive mappings. Evidence may support improvement, empowerment, or constraint management across more than one context. Preserve legitimate purposes and necessary safeguards while examining whether their design, burden, or operation can be improved. Constraint reduction is appropriate only where the restriction can be reduced without undermining required protections (see [Legitimate conditions](#legitimate-conditions-and-necessary-controls)). Not every dependency needs empowerment and not every constraint needs reduction. Classifying a context is separate from testing whether a response improves outcomes; agreement on a lens does not establish that an intervention works.
 
 ## Definitions and distinctions
 
@@ -163,7 +173,16 @@ These routes can inform one another; they are not compulsory sequential stages.
 
 Customer Experience outcomes provide important evidence of customer-facing value. Sustainable Growth requires examining CX alongside employee experience, operating results, future-capacity coverage, and wider value consequences over time. Good CX alone does not establish that future delivery can be sustained.
 
-**Applying the four definitions to context selection.** Choosing where to look is itself a consequential choice. *Decision Enablement:* does the person doing the inquiry have the access, information, and authority to examine each context, or does someone else own the rule or the data? *Decision Process Quality:* were all three contexts considered, with legitimacy and alternatives examined, before one was chosen? *Decision Quality:* given what could reasonably be known, was the chosen context a sound place to look first? *Decision Outcome Quality:* did the inquiry produce better evidence or a better question? A choice that led to a good result does not prove the context was well chosen, and a poor result does not prove it was not.
+**Applying the four definitions to context selection.** Choosing where to look is itself a consequential choice. Assess the four separately:
+
+| Definition | Question for context selection |
+| --- | --- |
+| Decision Enablement | Does the person doing the inquiry have the access, information, and authority to examine each context, or does someone else own the rule or the data? |
+| Decision Process Quality | Were all three contexts considered, with legitimacy and alternatives examined, before one was chosen? |
+| Decision Quality | Given what could reasonably be known, was the chosen context a sound place to look first? |
+| Decision Outcome Quality | Did the inquiry produce better evidence or a better question? |
+
+A choice that led to a good result does not prove the context was well chosen, and a poor result does not prove it was not.
 
 ## What 3C contributes
 
@@ -205,6 +224,24 @@ Customer Experience outcomes provide important evidence of customer-facing value
 6. **Choose the inquiry route:** *Diagnose* (why is this happening), *Establish* (what evidence would let us decide), or *Verify* (does practice meet the standard).
 7. **Hand off with a stop rule:** to a disposition ([5R](https://github.com/titumozammel/5r-cascade-framework)), recurring demand ([OSF](https://github.com/titumozammel/operational-silence-framework)), enablement ([HEEn](https://github.com/titumozammel/human-energy-enablement)), or another mechanism, with a review date.
 8. **Review:** did the question change, did the evidence change, did the primary context change? Record what was learned.
+
+**How 3C feeds the routes [H].**
+
+| Route | What 3C contributes | What the next step does | Where it lives |
+| --- | --- | --- | --- |
+| Diagnose | Names the primary context and the causal question | Symptoms → candidate causes → a supported explanation | [Diagnostic Approach](https://github.com/titumozammel/human-energy-economics#diagnosis-and-audit-route-h) |
+| Establish | Names the cheapest evidence that would tell the contexts apart | Moves an Unknown toward decidable | [Core Establish route](https://github.com/titumozammel/human-energy-economics) |
+| Verify | Names the standard and the practice to compare | Standard → practice → evidence → finding | [Audit Approach](https://github.com/titumozammel/human-energy-economics#diagnosis-and-audit-route-h) |
+
+**Hand-off routing at step 7 [H].**
+
+| If the evidence points to | Go to | Why |
+| --- | --- | --- |
+| Recurring demand that may not need to exist | [OSF](https://github.com/titumozammel/operational-silence-framework) | Tests whether the demand should exist and what happens to released capacity |
+| A recurring demand whose disposition must be chosen | [5R](https://github.com/titumozammel/5r-cascade-framework) | Considers Remove, Reduce, Replace, Re-engineer, or Retain |
+| Capable people blocked at the point of need | [HEEn](https://github.com/titumozammel/human-energy-enablement) | Examines access, authority, information, and support |
+| Unreliable execution with several interacting causes | [EES](https://github.com/titumozammel/execution-excellence-system) | Finds, fixes, controls, adapts, and grows |
+| An explanation outside 3C’s scope (markets, specialist, technical) | Another method or specialist | Do not force it into 3C |
 
 | Evidence pattern | Candidate context | Useful next step |
 | --- | --- | --- |
@@ -266,7 +303,20 @@ The principle is **question before optimization**, a heuristic and not a law. Op
 | Customer Experience | Internal contexts that may sit behind delays, errors, effort, or inconsistent service | That a negative CX result proves a specific internal condition; the internal context still needs examination |
 | SLA and XLA | The organizational context that may affect the ability to sustain service and experience commitments | That a context is the reason a commitment was missed |
 
-**Condition change and value.** The proposed pathway is: context → question → insight → attention → condition change → capacity effect → effective application → execution → sustainable execution capacity → sustainable business value **[P]**. 3C acts only at the front of it and does not guarantee any later step; each later step needs its own evidence. A changed condition is not an improved outcome, and released capacity is not value. Apply the Two Checks to the consequences of any change: was it Justified?, and is next-cycle capacity Covered?
+**Condition change and value.** The proposed pathway is: context → question → insight → attention → condition change → capacity effect → effective application → execution → sustainable execution capacity → sustainable business value **[P]**. 3C acts only at the front of it and does not guarantee any later step; each later step needs its own evidence. A changed condition is not an improved outcome, and released capacity is not value. Apply the Two Checks to the consequences of any change: was it Justified?, and is next-cycle capacity Covered? A justified one-off expenditure (for example, a regulatory filing) can still leave next-cycle capacity Not covered, and an unjustified drain can sit in a cycle that is Covered; the Core’s [worked contrast](https://github.com/titumozammel/human-energy-economics#justified-spending-or-future-shortfall-one-page-card-hp) shows how to tell them apart.
+
+**A worked contrast [Illustrative].** The numbers are invented. A team spends 30 extra hours to meet a regulatory filing deadline (*Justified?* Yes. *Covered?* No). The expenditure was justified, but next month’s legitimate demand is 100 hours against credible usable capacity of 80 because no one has recovered, so next month is *Not covered*: the owner secures feasible capacity or reduces commitments. Another team spends the same 30 hours re-keying data between two systems (*Justified?* No. *Covered?* Yes). That expenditure is not justified, yet next month is *Covered* (110 hours against 100): a drain candidate, so the owner assesses urgency and safeguards and selects a supported response. The same hours lead to different decisions, and results alone would not have told them apart.
+
+**Links to examine: EX, CX, and Sustainable Growth [P].** A change to a condition may alter usable capacity; that may change how employees experience demand and autonomy (EX); that may change what reaches customers (CX); and EX, CX, operating results, and next-cycle coverage must be read together before any claim about Sustainable Growth. Each link is a hypothesis with its own evidence and rival explanations, not an established chain, and neither EX nor CX alone establishes a cause.
+
+| Link to examine | Proposed example | Evidence and rival explanations |
+| --- | --- | --- |
+| Condition → usable capacity | A redesigned approval releases waiting time and rework | Queue and time records; check whether capacity was actually released, where it went, and what workload changed |
+| Usable capacity → EX | Less waiting and rework reduce avoidable friction and restore some autonomy | Confidential accounts and escalation records; check workload, leadership, or pay changes |
+| EX and application → CX | More timely, consistent work reaches customers | Turnaround, quality, complaints; check customer mix and pricing changes |
+| CX and EX → Sustainable Growth | Results are repeated without hidden overtime or depleted reserves | Repeated Two Checks, cost, rework, and wider consequences over time |
+
+Investigation may begin with a CX or EX signal and work back toward possible organizational conditions. That direction of inquiry does not establish causation; each proposed link still requires evidence and consideration of rival explanations. Economic conditions, competitor moves, leadership changes, and pricing may produce similar signals.
 
 **Growth and complexity.** Growth commonly adds functions, systems, decisions, interfaces, dependencies, handoffs, and coordination. As complexity grows, attention may need to shift from managing more activity toward understanding the contexts that create and sustain it. Growth is not the problem, and some complexity is necessary; the question is which contexts create value and which consume capacity without it. This is a hypothesis to test, not a finding.
 
@@ -306,22 +356,6 @@ Some elements are documented within the Core and have no separate repository. Ex
 
 **A leadership prompt [H].** *What context are we looking at, and what question does it make possible?* Then: what is primary, what is still open, what is Unknown, and what evidence would change the choice?
 
-## Descriptive progression (legacy construct, not tested)
-
-A nine-level progression is offered as an optional set of prompts, **[P] (legacy construct, not tested)**. It is not an established ordered maturity scale, a certification, or grounds to score organizations or people, and improvement can be uneven and reversible.
-
-| Level | Prompt | What it describes |
-| --- | --- | --- |
-| 1. Reactive | “Fix what is happening.” | Attention on visible problems and immediate consequences |
-| 2. Aware | “This keeps happening.” | Recurrence is recognized |
-| 3. Contextual | “What context is involved?” | Attention shifts from symptoms to conditions |
-| 4. Questioning | “What question should we actually ask?” | The quality of the question is seen to matter |
-| 5. Insight-driven | “What does context reveal?” | Context generates understanding |
-| 6. Strategic attention | “Where should attention go?” | Attention is deliberately directed |
-| 7. Preventive | “What should we change before recurrence?” | Conditions are addressed before the problem returns |
-| 8. Capacity-directed | “What is this condition doing to our ability to apply capacity?” | Conditions are linked with capacity and application |
-| 9. Sustainable | “How do we keep understanding the conditions that sustain execution?” | Contextual inquiry becomes ongoing learning |
-
 ## Relationship to the AKG practice record
 
 The [AKG Record](https://github.com/titumozammel/hee-case-studies) describes six author-reported interventions associated with HEE’s development and notes that the cases also reflect the 3C lens. That is a retrospective reading. The record does not document which context was examined first in any case, how any condition was classified, or any comparison with another lens, and it was not designed to test 3C. Where another document lists the contexts with arrows, read them as three parallel lenses, not a sequence.
@@ -343,7 +377,7 @@ The syntheses are the author’s reading of these traditions **[A]**, not a lite
 
 The proposed contribution **[P]** is narrow: a context-selection discipline, treating Source, Dependency, and Constraint as parallel possibilities before defaulting to a familiar lens, with an explicit legitimacy check and a record of alternatives kept open. Whether this adds decision value beyond constraint management, causal analysis, and dependency analysis must be tested against credible alternatives with comparable evidence and effort.
 
-Source, Dependency, and Constraint may overlap substantially with established lenses and with one another. 3C does not presently show that they are distinct constructs. If the tests below find they collapse, narrow 3C to a set of question prompts.
+Source, Dependency, and Constraint may overlap substantially with established lenses and with one another. 3C does not presently show that they are distinct constructs. If the tests below find they collapse, narrow 3C to a set of question prompts. The claim that would then survive is narrower: the legitimacy check and the record of alternatives kept open, as good practice rather than a distinct framework. The positioning argument ends here; whether the combination is novel is what the literature-positioning test in [Research agenda and tests](#research-agenda-and-tests) is for.
 
 | Approach | Primary starting point | Proposed 3C distinction (to be tested, not established) |
 | --- | --- | --- |
@@ -373,12 +407,16 @@ The following are proposed 3C study questions, **not newly registered Core propo
 | Test | Core proposition | Design and measures | Evidence supporting a bounded claim | Evidence weakening or narrowing it |
 | --- | --- | --- | --- | --- |
 | Context classification reliability | None: 3C-specific (parallels P11; the Core’s §8 candidate procedure) | Independent assessors receive the same case packet and classify the primary context and any secondary contexts before discussion; allow Mixed and Unknown; report raw and chance-corrected agreement on the primary label and agreement on the set of contexts named, with intervals; pre-register thresholds | Agreement exceeds a pre-specified threshold | Adequately documented cases cannot be classified reliably; revise definitions or reduce 3C to prompts |
-| Distinctness of the contexts | None: 3C-specific | For the same packets, have each independent assessor state, **before naming any primary context,** the evidence each of the three contexts would prompt them to seek (a within-assessor comparison, so the similarity reflects the contexts and not an assessor’s prior choice); code each request into a pre-specified evidence-type list (for example recurrence and upstream records, waiting and queue records, rule-purpose records, resource or limit records); for each packet compute the Jaccard similarity between the sets of evidence types the three contexts prompt, report the mean and range, and report agreement between assessors on a three-way judgment (*distinct / overlapping / indistinguishable*) for each pair of contexts; pre-specify and justify the thresholds before analysis (for example, illustratively, a mean Jaccard similarity below 0.5 read as distinct, above 0.8 as overlapping, and values between as inconclusive; these numbers are not validated and should be set from pilot data) | The contexts produce meaningfully different questions and evidence requests | The requests converge or the labels are used interchangeably; collapse the contexts into one prompt set |
+| Distinctness of the contexts | None: 3C-specific | For the same packets, have each independent assessor state, **before naming any primary context,** the evidence each of the three contexts would prompt them to seek (a within-assessor comparison, so the similarity reflects the contexts and not an assessor’s prior choice); code each request into an evidence-type list fixed before rating (recurrence and upstream-input records; queue, waiting, and handoff records; rule-purpose, owner, and loss-history records; resource and system-limit records; and other, reported separately), with two coders applying the list independently, a tie-breaking rule fixed before rating, and results reported with and without the “other” category; for each packet compute the Jaccard similarity between the sets of evidence types the three contexts prompt, report the mean and range, and report agreement between assessors on a three-way judgment (*distinct / overlapping / indistinguishable*) for each pair of contexts; pre-specify and justify the thresholds before analysis (for example, illustratively, a mean Jaccard similarity below 0.5 read as distinct, above 0.8 as overlapping, and values between as inconclusive; these numbers are not validated and should be set from pilot data) | The contexts produce meaningfully different questions and evidence requests | The requests converge or the labels are used interchangeably; collapse the contexts into one prompt set |
 | Question formulation | P12 (gated on the focused literature synthesis) | Follow P12: compare 3C prompts with an alternative structured diagnostic prompt of comparable length and specificity, using the same case evidence, blinded independent experts, and a pre-agreed rubric; sample size from a power analysis | Context-derived questions are rated more relevant and better fitted to the evidence | No difference above the pre-specified minimum meaningful effect |
-| Incremental diagnostic value | None: 3C-specific (relates to P12; gated as above) | Compare 3C-guided inquiry with a named, versioned comparator using equal information, attention, and expertise: **primary:** a structured root cause analysis (5 Whys with a cause-and-effect diagram); **secondary:** the Theory of Constraints focusing steps. Blinded experts rate diagnostic accuracy, evidence fit, and intervention fit | Consistent, justified differences in diagnoses or evidence requests | No meaningful difference; narrow novelty to a context-selection prompt |
-| Legitimacy protection | None: 3C-specific | Use vignettes that embed a protective control and a genuinely unnecessary one; compare how often each approach proposes removing the necessary control and how often it fails to flag the unnecessary one | Fewer wrongful removals without missing unnecessary conditions | No difference under an adequate test; revise the claim that context-first protects necessary conditions |
+| Incremental diagnostic value | None: 3C-specific (relates to P12; gated as above) | Compare 3C-guided inquiry with a named, versioned comparator using equal information, attention, and expertise: **primary:** a structured root cause analysis (5 Whys with a cause-and-effect diagram); **secondary:** the Theory of Constraints focusing steps. Experts are selected by a documented rule (relevant experience, no role in 3C), blinded to which approach produced each plan, and rate diagnostic accuracy, evidence fit, and intervention fit against a rubric fixed before review | Consistent, justified differences in diagnoses or evidence requests | No meaningful difference; narrow novelty to a context-selection prompt |
+| Legitimacy protection | None: 3C-specific | Use vignettes that embed a protective control and a genuinely unnecessary one; size the vignette set in advance; fix each vignette’s necessary or unnecessary status by a documented criterion or independent expert agreement before testing; compare how often each approach proposes removing the necessary control and how often it fails to flag the unnecessary one | Fewer wrongful removals without missing unnecessary conditions | No difference under an adequate test; revise the claim that context-first protects necessary conditions |
 | Literature positioning | None: 3C-specific (unowned; parallels the P12 synthesis) | A documented, protocol-based review of constraint management, causal analysis, dependency analysis, and problem formulation; two independent coders map each 3C element and question to the nearest established construct, with the search strategy and disagreements recorded | Documented gaps: at least one 3C element (parallel treatment of the three contexts, the legitimacy check, the record of alternatives) has no close established equivalent | Two or more independent coders map every 3C element onto an existing construct with agreement above a pre-specified threshold; narrow 3C to a context-selection prompt |
-| Reader utility | P15 | Representative role-based tasks using this document versus a credible comparator; predefine completion-time and blinded quality criteria | Faster answers without unacceptable quality loss | Speed worsens or important answers cannot be found; revise routing |
+| Reader utility | P15 | Representative role-based tasks using this document versus a named comparator (for example the Core README sections on the same task, or a plain-language one-page summary); predefine the comparator, a completion-time measure, and a blinded quality rubric before rating | Faster answers without unacceptable quality loss | Speed worsens or important answers cannot be found; revise routing |
+
+Each test pre-specifies its own decision rules before data are examined: a threshold, an interval, and the action each outcome triggers. The numerical examples above are illustrative, not adopted thresholds. Use separate pilot evidence and substantive justification to set decision rules, then fix them before examining the main-study data.
+
+**An illustrative decision rule [Illustrative].** For the classification reliability test, a protocol might state before rating: if the lower bound of the interval for chance-corrected agreement on the primary label falls below the pre-specified threshold, report 3C as a set of prompts and do not report context labels as findings; if it does not, proceed to the distinctness test. The threshold, sample size, and coefficient are set from pilot evidence and recorded in the study protocol before the main study begins; no value is adopted here.
 
 **What would retire or narrow 3C.** This is a document-level view; the Core README’s [framework-level table](https://github.com/titumozammel/human-energy-economics#what-would-reduce-or-retire-hee-as-a-whole-p) states the consequences for HEE as a whole.
 
@@ -394,7 +432,7 @@ The following are proposed 3C study questions, **not newly registered Core propo
 
 ### Context coding sheet and first reliability check
 
-This is a starter instrument **[P]** for the context classification test. All packets are **[Illustrative]** and show how the check works; they are not findings. Seven packets are enough to train raters and pilot the sheet, not to estimate reliability, which needs a sample sized in advance.
+This is a starter instrument **[P]** for the context classification test. All packets are **[Illustrative]** and show how the check works; they are not findings. Seven packets are enough to train raters and pilot the sheet, not to estimate reliability. Size the sample in advance from the chosen coefficient, the target interval width, and the expected agreement, and report the calculation; this document sets no number, because the inputs depend on pilot data.
 
 **Rating sheet (one row per packet and rater).** Record: packet ID; rater; the primary context (*Source / Dependency / Constraint / Mixed / Unknown / Outside 3C*); any secondary contexts; confidence; the evidence cited; whether a causal explanation is established (*yes / partly / no / Unknown*); what evidence each context would prompt the rater to request; and the legitimacy of the condition (*legitimate / unnecessary / Unknown*). Raters work independently and do not discuss packets until agreement has been computed.
 
@@ -416,7 +454,7 @@ This is a starter instrument **[P]** for the context classification test. All pa
 
 ## Go further
 
-Choose the destination that answers your next question. You need not read every repository.
+Choose the destination that answers your next question. You need not read every repository. For a question-first route, see [Find your question](#find-your-question).
 
 | Destination | Question it helps you pursue |
 | --- | --- |
@@ -432,6 +470,22 @@ Choose the destination that answers your next question. You need not read every 
 ### A short learner exercise
 
 Think of one condition you keep managing. Write down: what should have happened, what happened, and for whom, without a cause. Then ask the three questions (Why does this keep arising? Why does action depend on someone or something else? What is preventing effective action?) and note what evidence you hold for each and what is Unknown. Name a primary context and one alternative. Check the purpose and safeguards of anything you would change. Choose Diagnose, Establish, or Verify and explain why. Review your reasoning before changing a control. [Return to the question map](#find-your-question).
+
+## Appendix: descriptive progression (historical construct, retained for reference, not for use)
+
+This nine-level progression is retained solely to document an earlier formulation. It is untested and is not recommended as an assessment instrument, ordered maturity scale, certification, or basis for scoring organizations or people.
+
+| Level | Prompt | What it describes |
+| --- | --- | --- |
+| 1. Reactive | “Fix what is happening.” | Attention on visible problems and immediate consequences |
+| 2. Aware | “This keeps happening.” | Recurrence is recognized |
+| 3. Contextual | “What context is involved?” | Attention shifts from symptoms to conditions |
+| 4. Questioning | “What question should we actually ask?” | The quality of the question is seen to matter |
+| 5. Insight-driven | “What does context reveal?” | Context generates understanding |
+| 6. Strategic attention | “Where should attention go?” | Attention is deliberately directed |
+| 7. Preventive | “What should we change before recurrence?” | Conditions are addressed before the problem returns |
+| 8. Capacity-directed | “What is this condition doing to our ability to apply capacity?” | Conditions are linked with capacity and application |
+| 9. Sustainable | “How do we keep understanding the conditions that sustain execution?” | Contextual inquiry becomes ongoing learning |
 
 ## Author and disclosure
 
