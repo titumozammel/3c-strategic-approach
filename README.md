@@ -113,7 +113,7 @@ The question opens an inquiry. It does not assume that the condition is a defect
 | Reader | Start with | Leave with |
 | --- | --- | --- |
 | Owner or executive | [Owner view](#owner-view-one-page), then [Legitimate conditions](#legitimate-conditions-and-necessary-controls) | A named condition, the context under examination, the evidence still missing, an accountable owner, and a review date |
-| Practitioner or manager | [Worked example](#one-case-from-question-to-review), then [Choosing a context](#choosing-a-context) | The contexts the evidence supports, the next inquiry priority and why, the alternatives still open, and the cheapest evidence that would tell them apart |
+| Practitioner or manager | [Worked example](#one-case-from-question-to-review), then [Choosing a context](#choosing-a-context) | The contexts the evidence supports, the next inquiry priority and why, the alternatives still open, and the proportionate, decision-relevant evidence needed to resolve the uncertainty |
 | Auditor or governance lead | [Legitimate conditions](#legitimate-conditions-and-necessary-controls) | A purpose-and-safeguards check before any control or dependency is changed |
 | Academic | [Theory and contribution](#theory-and-contribution) | A bounded contribution claim and its relationship to constraint management, causal analysis, and dependency analysis |
 | Researcher | [Research agenda and tests](#research-agenda-and-tests), then the [coding sheet](#context-coding-sheet-and-first-reliability-check) | A study question, competing explanations, measures, and narrowing or rejection criteria |
@@ -130,7 +130,7 @@ Read in sequence only if useful. Follow the question map when you have a specifi
 2. **Say what you see, not why.** Write what should have happened, what happened, for whom, and over what period, without a cause.
 3. **Ask all three questions:** Why does this keep arising (Source)? Why does action depend on someone or something else (Dependency)? What is preventing effective action (Constraint)? More than one may apply: record each, with the evidence for each, rather than choosing one.
 4. **Check legitimacy before changing anything.** A source may be regulatory or customer-driven; a dependency may protect; a constraint may be necessary. Cost and frequency do not make a condition unnecessary.
-5. **Ask for the cheapest evidence that would tell the contexts apart,** with an owner and a date, before approving an intervention.
+5. **Ask for proportionate, decision-relevant evidence needed to resolve the uncertainty,** with an owner and a date, before approving an intervention.
 6. **Hand off with a reason.** Name the repository that best fits the case and say why. A hand-off record holds the condition, the primary context, the next inquiry priority, the evidence still missing, and the next step’s owner and date. Where the work is recurring demand, use [OSF](https://github.com/titumozammel/operational-silence-framework); to choose a disposition, [5R](https://github.com/titumozammel/5r-cascade-framework); where capability is blocked, [HEEn](https://github.com/titumozammel/human-energy-enablement).
 
 **Speed [H].** Rigor scales with the stakes. For an urgent, reversible decision, ask the three questions once, take a reversible first step with a stop rule written beforehand, and record what is Unknown; a full study is not required.
@@ -276,7 +276,7 @@ A choice that led to a good result does not prove the context was well chosen, a
 
 **Choice of context.** Dependency is provisionally primary because the queue records directly concern approval delay. Two absences provide limited evidence and do not establish causation. The Source estimate concerns request volume; both explanations remain open and may coexist. The Constraint lens also applies, while the limit’s purpose and proportionality remain Unknown. The limit may guard against fraud, so it is **not** raised before its purpose is known. *Next inquiry priority* is set separately: the Dependency first, because approval cover is cheap and reversible, while the limit’s purpose is asked of the risk owner in parallel.
 
-**Cheapest discriminating evidence (an Establish route).** Classify the cause of every above-limit request in the sample; ask the risk owner for the limit’s purpose and loss history; compare waits when the approver is present and absent. Owner and decide-by date are recorded.
+**Proportionate discriminating evidence (an Establish route).** Classify the cause of every above-limit request in the sample; ask the risk owner for the limit’s purpose and loss history; compare waits when the approver is present and absent. Owner and decide-by date are recorded.
 
 **First reversible step.** Provide named approval cover for absences, a change to the Dependency that leaves the control in place, with a stop rule written before it starts.
 
